@@ -1,0 +1,9 @@
+fixture_key,team1,team2,v25_public_verdict,v25_confidence,v25_pick,v25_team1_win_probability,v25_draw_probability,v25_team2_win_probability,v27_public_verdict,v27_confidence,v27_public_pick,v27_internal_ensemble_pick,v27_team1_win_probability,v27_draw_probability,v27_team2_win_probability,actual_90min_result,v25_pick_correct,v27_pick_correct
+friendly_2026_06_06_portugal_chile,Portugal,Chile,No strong edge,Pass,team1_win,0.4686,0.2725,0.2588,Pass,Pass,pass,team1_win,0.64214,0.28774,0.07012,,,
+friendly_2026_06_06_germany_usa,Germany,USA,No strong edge,Pass,team1_win,0.4428,0.2796,0.2776,Pass,Pass,pass,draw,0.35814,0.38646,0.2554,,,
+road26_2026_06_06_bolivia_scotland,Bolivia,Scotland,Draw lean,Low-medium,draw,0.35,0.2986,0.3514,Pass,Pass,pass,team2_win,0.20208,0.35189,0.44603,,,
+road26_2026_06_06_brazil_egypt,Brazil,Egypt,Brazil avoid defeat,Medium-low,team1_win,0.4787,0.277,0.2443,Pass,Pass,pass,team1_win,0.60044,0.30839,0.09117,,,
+road26_2026_06_06_argentina_honduras,Argentina,Honduras,Argentina win lean,Medium,team1_win,0.5454,0.2625,0.1921,Pass,Pass,pass,team1_win,0.76363,0.1979,0.03848,,,
+road26_2026_06_07_morocco_norway,Morocco,Norway,Draw risk / no strong edge,Pass,draw,0.3823,0.292,0.3257,Pass,Pass,pass,draw,0.33744,0.39043,0.27213,,,
+road26_2026_06_07_colombia_jordan,Colombia,Jordan,Colombia win lean,Medium,team1_win,0.5312,0.2579,0.2109,Pass,Pass,pass,team1_win,0.62373,0.29253,0.08375,,,
+road26_2026_06_09_argentina_iceland,Argentina,Iceland,Argentina win lean,Medium,team1_win,0.5978,0.2416,0.1607,Pass,Pass,pass,team1_win,0.80969,0.15994,0.03037,,,

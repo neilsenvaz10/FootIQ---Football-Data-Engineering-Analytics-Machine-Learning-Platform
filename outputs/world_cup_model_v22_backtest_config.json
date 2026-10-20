@@ -1,0 +1,9 @@
+{
+  "simulations": 20000,
+  "base_goal_rate": 1.15,
+  "power_goal_scale": 62.0,
+  "draw_decision_min": 0.28,
+  "draw_gap_max": 0.12,
+  "draw_favorite_max": 0.42,
+  "status": "v2.2 draw-calibrated probability layer; v2.1 historical team powers reused"
+}

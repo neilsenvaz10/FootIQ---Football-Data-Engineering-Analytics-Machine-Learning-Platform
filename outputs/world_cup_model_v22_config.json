@@ -1,0 +1,23 @@
+{
+  "version": "v2.2",
+  "seed": 20260606,
+  "simulations": 50000,
+  "base_goal_rate": 1.15,
+  "power_goal_scale": 62.0,
+  "draw_decision_min": 0.28,
+  "draw_gap_max": 0.12,
+  "draw_favorite_max": 0.42,
+  "firm_draw_gap_max": 0.04,
+  "firm_draw_favorite_max": 0.38,
+  "profile_input": "data/inputs/model_v21_team_profiles.csv",
+  "player_impact_input": "data/processed/player_impact_v21.csv",
+  "weights": {
+    "elo_score": 0.3,
+    "squad_score": 0.25,
+    "manager_score": 0.15,
+    "recent_form_score": 0.1,
+    "tactical_score": 0.1,
+    "ceiling_score": 0.05,
+    "availability_score": 0.05
+  }
+}

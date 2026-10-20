@@ -1,0 +1,15 @@
+year,variant,metric,value,context
+2018,model_v23_bias_control,champion_rank,8,France
+2018,model_v23_bias_control,champion_probability_pct,6.63,France
+2018,model_v23_bias_control,qualified_brier,0.1481,16 actual teams
+2018,model_v23_bias_control,quarter_final_brier,0.1308,7 actual teams
+2018,model_v23_bias_control,semi_final_brier,0.094,4 actual teams
+2018,model_v23_bias_control,final_brier,0.0588,2 actual teams
+2018,model_v23_bias_control,champion_brier,0.0296,1 actual teams
+2022,model_v23_bias_control,champion_rank,3,Argentina
+2022,model_v23_bias_control,champion_probability_pct,12.61,Argentina
+2022,model_v23_bias_control,qualified_brier,0.2284,16 actual teams
+2022,model_v23_bias_control,quarter_final_brier,0.1316,8 actual teams
+2022,model_v23_bias_control,semi_final_brier,0.1051,4 actual teams
+2022,model_v23_bias_control,final_brier,0.0523,2 actual teams
+2022,model_v23_bias_control,champion_brier,0.0261,1 actual teams

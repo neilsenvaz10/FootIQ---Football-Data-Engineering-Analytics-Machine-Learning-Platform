@@ -1,0 +1,9 @@
+fixture_key,date,time_et,team1,team2,competition_context,provider_found,provider_fixture_id,provider_league,provider_status,provider_status_long,provider_home,provider_away,live_score,provider_home_goals,provider_away_goals,actual_90min_result,lineup_status,lineups_count,events_count,statistics_count
+friendly_2026_06_06_portugal_chile,2026-06-06,13:45,Portugal,Chile,International friendly live test,False,,,,,,,,,,,provider_fixture_not_found,,,
+friendly_2026_06_06_germany_usa,2026-06-06,14:30,Germany,USA,International friendly live test,False,,,,,,,,,,,provider_fixture_not_found,,,
+road26_2026_06_06_bolivia_scotland,2026-06-06,16:00,Bolivia,Scotland,Road to 26 friendly,False,,,,,,,,,,,provider_fixture_not_found,,,
+road26_2026_06_06_brazil_egypt,2026-06-06,18:00,Brazil,Egypt,Road to 26 friendly,False,,,,,,,,,,,provider_fixture_not_found,,,
+road26_2026_06_06_argentina_honduras,2026-06-06,20:00,Argentina,Honduras,Road to 26 friendly,False,,,,,,,,,,,provider_fixture_not_found,,,
+road26_2026_06_07_morocco_norway,2026-06-07,15:00,Morocco,Norway,Road to 26 friendly,False,,,,,,,,,,,provider_fixture_not_found,,,
+road26_2026_06_07_colombia_jordan,2026-06-07,19:00,Colombia,Jordan,Road to 26 friendly,False,,,,,,,,,,,provider_fixture_not_found,,,
+road26_2026_06_09_argentina_iceland,2026-06-09,20:30,Argentina,Iceland,Road to 26 friendly,True,1540357,Friendlies,NS,Not Started,Argentina,Iceland,,,,,not_started_no_confirmed_lineups,,,

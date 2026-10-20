@@ -1,0 +1,28 @@
+.env
+.env.*
+!.env.example
+
+# Local Python environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Provider responses and credentials stay local
+data/provider_cache/
+*.pem
+*.key
+
+# Local tooling and future application build outputs
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
+*.log
+Thumbs.db
+.DS_Store
+

@@ -1,0 +1,9 @@
+fixture_key,date,team1,team2,provider_status,is_final,live_score,actual_90min_result,model_90min_pick,pick_correct,scoring_status
+friendly_2026_06_06_portugal_chile,2026-06-06,Portugal,Chile,,False,,,team1_win,,pending_final_whistle
+friendly_2026_06_06_germany_usa,2026-06-06,Germany,USA,,False,,,team1_win,,pending_final_whistle
+road26_2026_06_06_bolivia_scotland,2026-06-06,Bolivia,Scotland,,False,,,draw,,pending_final_whistle
+road26_2026_06_06_brazil_egypt,2026-06-06,Brazil,Egypt,,False,,,team1_win,,pending_final_whistle
+road26_2026_06_06_argentina_honduras,2026-06-06,Argentina,Honduras,,False,,,team1_win,,pending_final_whistle
+road26_2026_06_07_morocco_norway,2026-06-07,Morocco,Norway,,False,,,draw,,pending_final_whistle
+road26_2026_06_07_colombia_jordan,2026-06-07,Colombia,Jordan,,False,,,team1_win,,pending_final_whistle
+road26_2026_06_09_argentina_iceland,2026-06-09,Argentina,Iceland,NS,False,,,team1_win,,pending_final_whistle

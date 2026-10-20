@@ -1,0 +1,40 @@
+tournament,date,stage,home_team,away_team,actual_result_90min,predicted_90min_result,draw_risk_flag,home_win_probability,draw_probability,away_win_probability,correct_90min
+Euro 2024,2024-06-14,Group Stage,Germany,Scotland,home_win,home_win,False,0.4985,0.2661,0.2354,True
+Euro 2024,2024-06-15,Group Stage,Hungary,Switzerland,away_win,draw,True,0.3962,0.2823,0.3215,False
+Euro 2024,2024-06-15,Group Stage,Italy,Albania,home_win,home_win,False,0.4707,0.2721,0.2572,True
+Euro 2024,2024-06-15,Group Stage,Spain,Croatia,home_win,draw,True,0.3753,0.2834,0.3413,False
+Euro 2024,2024-06-16,Group Stage,Poland,Netherlands,away_win,away_win,False,0.2764,0.2763,0.4474,True
+Euro 2024,2024-06-16,Group Stage,Serbia,England,away_win,draw,True,0.3254,0.2826,0.392,False
+Euro 2024,2024-06-16,Group Stage,Slovenia,Denmark,draw,draw,True,0.3371,0.2832,0.3796,True
+Euro 2024,2024-06-17,Group Stage,Austria,France,away_win,draw,True,0.3714,0.2835,0.3451,False
+Euro 2024,2024-06-17,Group Stage,Belgium,Slovakia,away_win,home_win,False,0.457,0.2747,0.2684,False
+Euro 2024,2024-06-17,Group Stage,Romania,Ukraine,home_win,away_win,False,0.2635,0.2736,0.4629,False
+Euro 2024,2024-06-18,Group Stage,Portugal,Czech Republic,home_win,draw,True,0.3951,0.2824,0.3225,False
+Euro 2024,2024-06-18,Group Stage,Turkey,Georgia,home_win,draw,True,0.3767,0.2834,0.3399,False
+Euro 2024,2024-06-19,Group Stage,Croatia,Albania,draw,home_win,False,0.4836,0.2695,0.2469,False
+Euro 2024,2024-06-19,Group Stage,Germany,Hungary,home_win,home_win,False,0.44,0.2774,0.2826,True
+Euro 2024,2024-06-19,Group Stage,Scotland,Switzerland,draw,draw,True,0.3412,0.2834,0.3754,True
+Euro 2024,2024-06-20,Group Stage,Denmark,England,draw,draw,True,0.3361,0.2832,0.3808,True
+Euro 2024,2024-06-20,Group Stage,Slovenia,Serbia,draw,draw,True,0.3479,0.2836,0.3685,True
+Euro 2024,2024-06-20,Group Stage,Spain,Italy,home_win,draw,True,0.3876,0.2828,0.3296,False
+Euro 2024,2024-06-21,Group Stage,Netherlands,France,draw,draw,True,0.3768,0.2833,0.3399,True
+Euro 2024,2024-06-21,Group Stage,Poland,Austria,away_win,away_win,False,0.2811,0.2772,0.4417,True
+Euro 2024,2024-06-21,Group Stage,Slovakia,Ukraine,away_win,draw,True,0.3006,0.2801,0.4193,False
+Euro 2024,2024-06-22,Group Stage,Belgium,Romania,home_win,home_win,False,0.5011,0.2655,0.2334,True
+Euro 2024,2024-06-22,Group Stage,Georgia,Czech Republic,draw,draw,True,0.3168,0.2819,0.4013,True
+Euro 2024,2024-06-22,Group Stage,Turkey,Portugal,away_win,away_win,False,0.2999,0.28,0.42,True
+Euro 2024,2024-06-23,Group Stage,Germany,Switzerland,draw,home_win,False,0.4801,0.2702,0.2497,False
+Euro 2024,2024-06-23,Group Stage,Scotland,Hungary,away_win,draw,True,0.3053,0.2807,0.414,False
+Euro 2024,2024-06-24,Group Stage,Albania,Spain,away_win,away_win,False,0.2328,0.2653,0.5019,True
+Euro 2024,2024-06-24,Group Stage,Croatia,Italy,draw,draw,True,0.3702,0.2835,0.3462,True
+Euro 2024,2024-06-25,Group Stage,Denmark,Serbia,draw,draw,True,0.3692,0.2836,0.3473,True
+Euro 2024,2024-06-25,Group Stage,England,Slovenia,draw,draw,True,0.4027,0.2818,0.3156,True
+Euro 2024,2024-06-25,Group Stage,France,Poland,draw,home_win,False,0.4278,0.2791,0.2931,False
+Euro 2024,2024-06-25,Group Stage,Netherlands,Austria,away_win,draw,True,0.3635,0.2837,0.3529,False
+Euro 2024,2024-06-26,Group Stage,Czech Republic,Turkey,away_win,draw,True,0.3823,0.2831,0.3346,False
+Euro 2024,2024-06-26,Group Stage,Georgia,Portugal,home_win,away_win,False,0.283,0.2775,0.4395,False
+Euro 2024,2024-06-26,Group Stage,Slovakia,Romania,draw,draw,True,0.4,0.282,0.318,True
+Euro 2024,2024-06-26,Group Stage,Ukraine,Belgium,draw,draw,True,0.3233,0.2824,0.3943,True
+UEFA Nations League 2025 Finals,2025-06-04,Semi-final,Germany,Portugal,away_win,draw,True,0.3996,0.282,0.3184,False
+UEFA Nations League 2025 Finals,2025-06-05,Semi-final,Spain,France,home_win,draw,True,0.3761,0.2834,0.3406,False
+UEFA Nations League 2025 Finals,2025-06-08,Final,Portugal,Spain,draw,draw,True,0.3406,0.2834,0.3761,True

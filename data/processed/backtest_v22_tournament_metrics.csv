@@ -1,0 +1,15 @@
+year,variant,metric,value,context
+2018,model_v22_draw_calibrated,champion_rank,5,France
+2018,model_v22_draw_calibrated,champion_probability_pct,7.13,France
+2018,model_v22_draw_calibrated,qualified_brier,0.144,16 actual teams
+2018,model_v22_draw_calibrated,quarter_final_brier,0.1314,7 actual teams
+2018,model_v22_draw_calibrated,semi_final_brier,0.097,4 actual teams
+2018,model_v22_draw_calibrated,final_brier,0.062,2 actual teams
+2018,model_v22_draw_calibrated,champion_brier,0.0301,1 actual teams
+2022,model_v22_draw_calibrated,champion_rank,3,Argentina
+2022,model_v22_draw_calibrated,champion_probability_pct,16.23,Argentina
+2022,model_v22_draw_calibrated,qualified_brier,0.2316,16 actual teams
+2022,model_v22_draw_calibrated,quarter_final_brier,0.1255,8 actual teams
+2022,model_v22_draw_calibrated,semi_final_brier,0.1069,4 actual teams
+2022,model_v22_draw_calibrated,final_brier,0.0511,2 actual teams
+2022,model_v22_draw_calibrated,champion_brier,0.0249,1 actual teams

@@ -1,0 +1,45 @@
+snapshot_timestamp_et,fixture_key,date,time_et,team,provider_player_name,matched_player_name,match_method,match_similarity,impact_score,expected_role,unit
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,Mike Maignan,Mike Maignan,exact,1.0,81.64,Starter,GK
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,Jules Koundé,Jules Koundé,exact,1.0,85.31,Starter,Defence
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,Dayot Upamecano,Dayot Upamecano,exact,1.0,84.97,Starter,Defence
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,William Saliba,William Saliba,exact,1.0,82.4,Rotation,Defence
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,Lucas Digne,Lucas Digne,exact,1.0,81.14,Rotation,Defence
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,Manu Koné,Manu Koné,exact,1.0,75.79,Depth,Midfield
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,Adrien Rabiot,Adrien Rabiot,exact,1.0,83.56,Starter,Midfield
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,Michael Olise,Michael Olise,exact,1.0,84.19,Starter,Attack
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,Ousmane Dembélé,Ousmane Dembélé,exact,1.0,88.14,Starter,Attack
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,Bradley Barcola,Bradley Barcola,exact,1.0,82.59,Rotation,Attack
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,France,Kylian Mbappé,Kylian Mbappé,exact,1.0,96.43,Starter,Attack
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Ahmed Basil,Ahmed Basil,exact,1.0,56.92,Depth,GK
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Hussein Ali,Hussein Ali,exact,1.0,58.45,Rotation,Defence
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Zaid Tahseen,Zaid Tahseen,exact,1.0,59.07,Starter,Defence
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Akam Hashem,Akam Hashim,fuzzy,0.9,58.12,Rotation,Defence
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Merchas Doski,Merchas Doski,exact,1.0,59.73,Starter,Defence
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Amir Al-Ammari,Amir Al-Ammari,exact,1.0,62.82,Starter,Midfield
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Zaid Ismail,Zaid Ismail,exact,1.0,53.99,Depth,Midfield
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Ibrahim Bayesh,Ibrahim Bayesh,exact,1.0,65.86,Starter,Midfield
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Zidane Iqbal,Zidane Iqbal,exact,1.0,58.28,Starter,Midfield
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Ahmed Qasem,Ahmed Qasem,exact,1.0,52.37,Depth,Attack
+2026-06-22T16:33:07-04:00,worldcup_2026_06_22_france_iraq,2026-06-22,17:00,Iraq,Aymen Hussein,Aymen Hussein,exact,1.0,70.71,Starter,Attack
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Yahia Fofana,Yahia Fofana,exact,1.0,66.98,Starter,GK
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Guéla Doué,Guéla Doué,exact,1.0,71.8,Rotation,Defence
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Odilon Kossounou,Odilon Kossounou,exact,1.0,77.32,Starter,Defence
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Emmanuel Agbadou,Emmanuel Agbadou,exact,1.0,73.49,Rotation,Defence
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Ghislain Konan,Ghislain Konan,exact,1.0,70.57,Rotation,Defence
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Ibrahim Sangaré,Ibrahim Sangaré,exact,1.0,80.92,Starter,Midfield
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Nicolas Pépé,Nicolas Pépé,exact,1.0,80.9,Starter,Attack
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Franck Kessié,Franck Kessié,exact,1.0,84.58,Starter,Midfield
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Christ Inao Oulaï,Christ Inao Oulaï,exact,1.0,65.93,Depth,Midfield
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Yan Diomande,Yan Diomande,exact,1.0,75.43,Rotation,Attack
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Ivory Coast,Ange-Yoan Bonny,Ange-Yoan Bonny,exact,1.0,69.84,Rotation,Attack
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,Ørjan Nyland,Ørjan Nyland,exact,1.0,81.03,Starter,GK
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,Marcus Pedersen,,unmatched,0.77778,,,
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,Kristoffer Ajer,Kristoffer Ajer,exact,1.0,80.37,Starter,Defence
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,Torbjørn Heggem,Torbjørn Heggem,exact,1.0,73.68,Depth,Defence
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,David Møller Wolfe,David Møller Wolfe,exact,1.0,74.14,Starter,Defence
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,Martin Ødegaard,Martin Ødegaard,exact,1.0,90.09,Starter,Midfield
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,Sander Berge,Sander Berge,exact,1.0,82.14,Starter,Midfield
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,Patrick Berg,Patrick Berg,exact,1.0,76.29,Rotation,Midfield
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,Alexander Sørloth,Alexander Sørloth,exact,1.0,91.43,Starter,Attack
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,Erling Haaland,Erling Haaland,exact,1.0,91.97,Starter,Attack
+2026-06-30T12:54:16-04:00,worldcup_2026_06_30_ivory_coast_norway,2026-06-30,13:00,Norway,Antonio Nusa,Antonio Nusa,exact,1.0,80.16,Starter,Attack

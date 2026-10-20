@@ -1,0 +1,129 @@
+title_rank,year,variant,team,group,elo,elo_rank,total_rating,contender_tier,qualify_pct,quarter_final_pct,semi_final_pct,final_pct,champion_pct,recent_form_adjustment,ceiling_adjustment,tactical_adjustment,tactical_data_status
+1,2018,model_v1,Brazil,E,2182.019,1,2242.312,Tier 1 contender,90.02,70.52,55.23,40.53,28.73,22.293,38.0,0.0,no_prior_tactical_data
+2,2018,model_v1,Spain,B,2093.141,3,2145.986,Tier 1 contender,76.61,63.12,41.63,24.61,14.05,14.845,38.0,0.0,no_prior_tactical_data
+3,2018,model_v1,Germany,F,2098.631,2,2131.213,Tier 1 contender,84.08,52.13,35.67,21.66,11.48,-5.418,38.0,0.0,no_prior_tactical_data
+4,2018,model_v1,Argentina,D,2040.951,4,2073.002,Tier 1 contender,81.72,48.26,27.5,13.87,6.64,-1.044,33.095,0.0,no_prior_tactical_data
+5,2018,model_v1,France,C,2032.915,5,2073.632,Tier 1 contender,68.23,43.84,25.37,12.3,5.9,8.425,32.291,0.0,no_prior_tactical_data
+6,2018,model_v1,Portugal,B,2009.986,6,2040.971,Tier 1 contender,61.92,45.41,24.62,11.59,5.08,0.986,29.999,0.0,no_prior_tactical_data
+7,2018,model_v1,England,G,1996.47,8,2042.683,Tier 1 contender,76.48,50.11,22.73,11.59,4.89,17.566,28.647,0.0,no_prior_tactical_data
+8,2018,model_v1,Peru,C,2004.189,7,2051.15,Tier 1 contender,64.36,39.77,21.82,10.23,4.78,17.542,29.419,0.0,no_prior_tactical_data
+9,2018,model_v1,Belgium,G,1989.407,9,2027.708,Tier 2 dark horse,73.91,47.02,20.32,10.29,4.63,19.361,18.941,0.0,no_prior_tactical_data
+10,2018,model_v1,Colombia,H,1982.06,10,1998.312,Tier 2 dark horse,69.8,37.84,16.2,7.78,3.21,-1.954,18.206,0.0,no_prior_tactical_data
+11,2018,model_v1,Uruguay,A,1938.982,11,1967.913,Tier 2 dark horse,81.25,34.8,16.1,6.03,2.19,15.033,13.898,0.0,no_prior_tactical_data
+12,2018,model_v1,Switzerland,E,1934.041,13,1962.793,Tier 2 dark horse,53.95,24.84,12.31,5.36,1.75,15.348,13.404,0.0,no_prior_tactical_data
+13,2018,model_v1,Mexico,F,1927.016,16,1937.094,Tier 2 dark horse,55.88,20.57,9.62,3.69,1.18,-2.624,12.702,0.0,no_prior_tactical_data
+14,2018,model_v1,Croatia,D,1900.862,17,1917.652,Tier 2 dark horse,59.17,23.93,10.21,3.48,1.15,6.703,10.086,0.0,no_prior_tactical_data
+15,2018,model_v1,Denmark,C,1886.345,20,1912.638,Tier 2 dark horse,39.02,17.98,7.03,2.37,0.8,17.659,8.635,0.0,no_prior_tactical_data
+16,2018,model_v1,Iran,B,1888.929,18,1901.871,Tier 2 dark horse,34.95,20.18,8.04,2.58,0.75,4.049,8.893,0.0,no_prior_tactical_data
+17,2018,model_v1,Poland,H,1887.789,19,1895.262,Tier 2 dark horse,51.99,21.64,6.75,2.38,0.66,-1.306,8.779,0.0,no_prior_tactical_data
+18,2018,model_v1,Senegal,H,1857.635,23,1863.057,Tier 3 knockout threat,46.52,18.0,5.06,1.58,0.45,4.659,0.763,0.0,no_prior_tactical_data
+19,2018,model_v1,Morocco,B,1822.5,28,1850.424,Tier 3 knockout threat,26.52,13.88,4.68,1.2,0.33,30.674,-2.75,0.0,no_prior_tactical_data
+20,2018,model_v1,Australia,C,1835.019,25,1845.403,Tier 3 knockout threat,28.39,10.79,3.82,1.02,0.23,11.882,-1.498,0.0,no_prior_tactical_data
+21,2018,model_v1,Sweden,F,1831.725,26,1826.838,Tier 3 knockout threat,34.38,8.78,3.1,0.88,0.2,-3.059,-1.828,0.0,no_prior_tactical_data
+22,2018,model_v1,Costa Rica,E,1847.849,24,1832.465,Tier 3 knockout threat,29.54,9.57,3.54,0.93,0.17,-15.169,-0.215,0.0,no_prior_tactical_data
+23,2018,model_v1,Iceland,D,1829.409,27,1811.669,Tier 3 knockout threat,38.55,11.4,3.48,0.79,0.17,-15.681,-2.059,0.0,no_prior_tactical_data
+24,2018,model_v1,Russia,A,1749.021,49,1716.625,Tier 4 participant,50.34,10.97,2.71,0.55,0.13,-10.298,-22.098,0.0,no_prior_tactical_data
+25,2018,model_v1,Serbia,E,1808.222,31,1815.237,Tier 3 knockout threat,26.5,8.08,2.6,0.68,0.12,11.193,-4.178,0.0,no_prior_tactical_data
+26,2018,model_v1,Tunisia,G,1770.019,46,1762.948,Tier 4 participant,26.1,8.89,1.95,0.42,0.1,12.927,-19.998,0.0,no_prior_tactical_data
+27,2018,model_v1,South Korea,F,1790.604,38,1769.327,Tier 3 knockout threat,25.64,5.51,1.6,0.39,0.08,-15.337,-5.94,0.0,no_prior_tactical_data
+28,2018,model_v1,Panama,G,1770.324,45,1739.089,Tier 4 participant,23.52,7.12,1.38,0.3,0.06,-11.268,-19.968,0.0,no_prior_tactical_data
+29,2018,model_v1,Japan,H,1793.149,35,1775.863,Tier 3 knockout threat,31.68,9.38,1.94,0.47,0.05,-11.601,-5.685,0.0,no_prior_tactical_data
+30,2018,model_v1,Egypt,A,1737.79,54,1701.548,Tier 4 participant,37.5,6.85,1.42,0.24,0.03,-13.021,-23.221,0.0,no_prior_tactical_data
+31,2018,model_v1,Nigeria,D,1723.471,57,1692.585,Tier 4 participant,20.55,4.05,0.8,0.12,0.01,-6.233,-24.653,0.0,no_prior_tactical_data
+32,2018,model_v1,Saudi Arabia,A,1698.518,64,1665.314,Tier 4 participant,30.9,4.76,0.74,0.1,0.01,-6.056,-27.148,0.0,no_prior_tactical_data
+1,2018,elo_only,Brazil,E,2182.019,1,2182.019,Elo-only baseline,86.49,64.12,48.57,34.48,23.88,0.0,0.0,0.0,not_used
+2,2018,elo_only,Spain,B,2093.141,3,2093.141,Elo-only baseline,74.43,57.88,37.24,21.44,12.77,0.0,0.0,0.0,not_used
+3,2018,elo_only,Germany,F,2098.631,2,2098.631,Elo-only baseline,80.61,49.83,34.1,21.21,12.11,0.0,0.0,0.0,not_used
+4,2018,elo_only,Argentina,D,2040.951,4,2040.951,Elo-only baseline,77.69,45.68,26.64,13.89,7.09,0.0,0.0,0.0,not_used
+5,2018,elo_only,France,C,2032.915,5,2032.915,Elo-only baseline,66.17,41.84,24.18,12.5,6.25,0.0,0.0,0.0,not_used
+6,2018,elo_only,Portugal,B,2009.986,6,2009.986,Elo-only baseline,60.63,42.14,23.31,11.33,5.22,0.0,0.0,0.0,not_used
+7,2018,elo_only,England,G,1996.47,8,1996.47,Elo-only baseline,70.22,43.95,20.41,10.58,4.79,0.0,0.0,0.0,not_used
+8,2018,elo_only,Peru,C,2004.189,7,2004.189,Elo-only baseline,61.94,37.28,20.66,10.05,4.62,0.0,0.0,0.0,not_used
+9,2018,elo_only,Belgium,G,1989.407,9,1989.407,Elo-only baseline,69.41,42.19,19.16,9.89,4.54,0.0,0.0,0.0,not_used
+10,2018,elo_only,Colombia,H,1982.06,10,1982.06,Elo-only baseline,68.58,38.7,16.98,8.35,3.57,0.0,0.0,0.0,not_used
+11,2018,elo_only,Uruguay,A,1938.982,11,1938.982,Elo-only baseline,74.58,33.75,15.79,6.41,2.56,0.0,0.0,0.0,not_used
+12,2018,elo_only,Switzerland,E,1934.041,13,1934.041,Elo-only baseline,50.98,22.84,11.61,5.18,1.94,0.0,0.0,0.0,not_used
+13,2018,elo_only,Mexico,F,1927.016,16,1927.016,Elo-only baseline,53.71,21.68,10.81,4.79,1.86,0.0,0.0,0.0,not_used
+14,2018,elo_only,Croatia,D,1900.862,17,1900.862,Elo-only baseline,55.12,23.26,10.03,3.81,1.29,0.0,0.0,0.0,not_used
+15,2018,elo_only,Iran,B,1888.929,18,1888.929,Elo-only baseline,38.0,21.73,9.14,3.31,1.14,0.0,0.0,0.0,not_used
+16,2018,elo_only,Poland,H,1887.789,19,1887.789,Elo-only baseline,51.8,22.73,8.21,3.23,1.07,0.0,0.0,0.0,not_used
+17,2018,elo_only,Denmark,C,1886.345,20,1886.345,Elo-only baseline,40.34,18.8,7.98,3.03,1.01,0.0,0.0,0.0,not_used
+18,2018,elo_only,Senegal,H,1857.635,23,1857.635,Elo-only baseline,45.84,19.33,6.01,2.1,0.69,0.0,0.0,0.0,not_used
+19,2018,elo_only,Costa Rica,E,1847.849,24,1847.849,Elo-only baseline,34.59,13.1,5.4,1.96,0.57,0.0,0.0,0.0,not_used
+20,2018,elo_only,Australia,C,1835.019,25,1835.019,Elo-only baseline,31.55,13.12,4.83,1.55,0.43,0.0,0.0,0.0,not_used
+21,2018,elo_only,Iceland,D,1829.409,27,1829.409,Elo-only baseline,41.97,14.05,5.25,1.54,0.4,0.0,0.0,0.0,not_used
+22,2018,elo_only,Sweden,F,1831.725,26,1831.725,Elo-only baseline,36.57,11.24,4.33,1.37,0.34,0.0,0.0,0.0,not_used
+23,2018,elo_only,Morocco,B,1822.5,28,1822.5,Elo-only baseline,26.93,13.41,4.58,1.25,0.34,0.0,0.0,0.0,not_used
+24,2018,elo_only,Russia,A,1749.021,49,1749.021,Elo-only baseline,52.65,15.0,4.65,1.22,0.34,0.0,0.0,0.0,not_used
+25,2018,elo_only,Serbia,E,1808.222,31,1808.222,Elo-only baseline,27.93,9.24,3.4,1.08,0.23,0.0,0.0,0.0,not_used
+26,2018,elo_only,Japan,H,1793.149,35,1793.149,Elo-only baseline,33.77,11.57,3.08,0.92,0.21,0.0,0.0,0.0,not_used
+27,2018,elo_only,Tunisia,G,1770.019,46,1770.019,Elo-only baseline,30.74,11.0,2.9,0.81,0.17,0.0,0.0,0.0,not_used
+28,2018,elo_only,South Korea,F,1790.604,38,1790.604,Elo-only baseline,29.11,7.95,2.63,0.75,0.17,0.0,0.0,0.0,not_used
+29,2018,elo_only,Panama,G,1770.324,45,1770.324,Elo-only baseline,29.64,10.53,2.4,0.68,0.14,0.0,0.0,0.0,not_used
+30,2018,elo_only,Egypt,A,1737.79,54,1737.79,Elo-only baseline,39.7,9.51,2.5,0.61,0.12,0.0,0.0,0.0,not_used
+31,2018,elo_only,Nigeria,D,1723.471,57,1723.471,Elo-only baseline,25.23,5.96,1.71,0.37,0.07,0.0,0.0,0.0,not_used
+32,2018,elo_only,Saudi Arabia,A,1698.518,64,1698.518,Elo-only baseline,33.09,6.58,1.51,0.29,0.03,0.0,0.0,0.0,not_used
+1,2022,model_v1,Brazil,G,2227.906,1,2296.832,Tier 1 contender,91.24,72.63,54.27,37.85,27.72,22.156,38.0,8.77,prior_statsbomb_worldcup_data
+2,2022,model_v1,Argentina,C,2191.813,2,2249.698,Tier 1 contender,91.8,71.06,52.76,32.14,21.48,19.452,38.0,0.433,prior_statsbomb_worldcup_data
+3,2022,model_v1,Netherlands,A,2077.618,4,2150.144,Tier 1 contender,84.81,63.73,35.02,18.37,9.7,35.764,36.762,0.0,no_prior_tactical_data
+4,2022,model_v1,Spain,E,2097.582,3,2162.153,Tier 1 contender,76.39,50.79,27.31,16.02,8.77,15.476,38.0,11.095,prior_statsbomb_worldcup_data
+5,2022,model_v1,Belgium,F,2073.468,5,2105.48,Tier 1 contender,72.41,41.23,20.86,11.84,5.14,-13.206,36.347,8.871,prior_statsbomb_worldcup_data
+6,2022,model_v1,Portugal,H,2049.904,7,2092.058,Tier 1 contender,76.91,38.06,20.66,11.28,4.67,8.992,33.99,-0.828,prior_statsbomb_worldcup_data
+7,2022,model_v1,France,D,2045.963,8,2055.492,Tier 1 contender,69.0,36.49,21.68,9.83,3.73,-21.987,33.596,-2.08,prior_statsbomb_worldcup_data
+8,2022,model_v1,Denmark,D,2015.07,10,2042.696,Tier 2 dark horse,66.81,34.28,19.77,8.49,3.08,9.832,21.507,-3.713,prior_statsbomb_worldcup_data
+9,2022,model_v1,Uruguay,H,2001.196,11,2039.089,Tier 2 dark horse,69.31,29.59,14.45,7.34,2.62,19.331,20.12,-1.558,prior_statsbomb_worldcup_data
+10,2022,model_v1,Germany,E,2020.618,9,2058.267,Tier 2 dark horse,60.6,33.72,14.82,7.25,2.62,5.481,22.062,10.106,prior_statsbomb_worldcup_data
+11,2022,model_v1,England,B,1998.14,12,1995.082,Tier 2 dark horse,66.83,35.62,16.0,6.08,1.92,-26.719,19.814,3.847,prior_statsbomb_worldcup_data
+12,2022,model_v1,Croatia,F,1968.942,14,2026.554,Tier 2 dark horse,59.67,28.1,11.54,5.22,1.83,33.975,16.894,6.743,prior_statsbomb_worldcup_data
+13,2022,model_v1,Serbia,G,1943.497,16,1987.63,Tier 2 dark horse,50.48,23.15,9.94,4.38,1.16,28.229,14.35,1.555,prior_statsbomb_worldcup_data
+14,2022,model_v1,Switzerland,G,1962.566,15,1976.974,Tier 2 dark horse,48.38,21.59,8.62,3.88,1.03,-2.125,16.257,0.277,prior_statsbomb_worldcup_data
+15,2022,model_v1,Ecuador,A,1902.478,20,1911.199,Tier 2 dark horse,49.08,23.95,8.53,2.6,0.7,-1.527,10.248,0.0,no_prior_tactical_data
+16,2022,model_v1,Mexico,C,1908.288,18,1909.691,Tier 2 dark horse,47.35,19.37,8.47,2.62,0.61,-7.294,10.829,-2.131,prior_statsbomb_worldcup_data
+17,2022,model_v1,USA,B,1901.993,21,1893.044,Tier 3 knockout threat,48.7,19.52,6.65,1.83,0.49,-14.148,5.199,0.0,no_prior_tactical_data
+18,2022,model_v1,Iran,B,1899.866,22,1889.089,Tier 3 knockout threat,47.38,19.25,6.45,1.84,0.42,-7.747,4.987,-8.017,prior_statsbomb_worldcup_data
+19,2022,model_v1,Japan,E,1904.527,19,1916.547,Tier 2 dark horse,34.07,13.47,4.19,1.46,0.38,3.459,10.453,-1.892,prior_statsbomb_worldcup_data
+20,2022,model_v1,South Korea,H,1893.47,24,1902.673,Tier 3 knockout threat,42.53,12.13,3.94,1.31,0.36,5.835,4.347,-0.98,prior_statsbomb_worldcup_data
+21,2022,model_v1,Poland,C,1873.252,26,1882.343,Tier 3 knockout threat,41.98,15.77,6.46,1.79,0.34,10.248,2.325,-3.482,prior_statsbomb_worldcup_data
+22,2022,model_v1,Canada,F,1898.716,23,1899.114,Tier 3 knockout threat,36.09,11.9,3.27,1.07,0.23,-4.473,4.872,0.0,no_prior_tactical_data
+23,2022,model_v1,Morocco,F,1864.918,29,1876.023,Tier 3 knockout threat,31.83,10.24,2.61,0.85,0.21,12.493,1.492,-2.88,prior_statsbomb_worldcup_data
+24,2022,model_v1,Tunisia,D,1818.325,35,1849.232,Tier 3 knockout threat,32.62,9.61,3.5,0.72,0.18,26.806,-3.167,7.268,prior_statsbomb_worldcup_data
+25,2022,model_v1,Costa Rica,E,1866.262,28,1884.176,Tier 3 knockout threat,28.93,10.54,3.0,0.84,0.15,25.424,1.626,-9.137,prior_statsbomb_worldcup_data
+26,2022,model_v1,Wales,B,1848.57,31,1832.645,Tier 3 knockout threat,37.09,12.53,3.55,0.69,0.15,-15.782,-0.143,0.0,no_prior_tactical_data
+27,2022,model_v1,Qatar,A,1790.634,44,1785.896,Tier 4 participant,36.06,14.21,3.94,0.86,0.12,13.198,-17.937,0.0,no_prior_tactical_data
+28,2022,model_v1,Australia,D,1833.213,32,1843.873,Tier 3 knockout threat,31.57,9.13,3.15,0.68,0.11,12.182,-1.679,0.156,prior_statsbomb_worldcup_data
+29,2022,model_v1,Senegal,A,1813.069,38,1804.339,Tier 3 knockout threat,30.05,11.2,2.93,0.63,0.06,-5.457,-3.693,0.42,prior_statsbomb_worldcup_data
+30,2022,model_v1,Saudi Arabia,C,1758.315,51,1730.551,Tier 4 participant,18.87,4.29,1.14,0.15,0.01,-4.191,-21.168,-2.405,prior_statsbomb_worldcup_data
+31,2022,model_v1,Ghana,H,1676.968,76,1657.487,Tier 4 participant,11.25,1.21,0.22,0.06,0.0,9.822,-29.303,0.0,no_prior_tactical_data
+32,2022,model_v1,Cameroon,G,1721.039,62,1690.02,Tier 4 participant,9.9,1.63,0.31,0.03,0.0,-6.122,-24.896,0.0,no_prior_tactical_data
+1,2022,elo_only,Brazil,G,2227.906,1,2227.906,Elo-only baseline,88.05,67.97,49.91,34.44,24.12,0.0,0.0,0.0,not_used
+2,2022,elo_only,Argentina,C,2191.813,2,2191.813,Elo-only baseline,88.19,65.89,49.33,30.58,20.29,0.0,0.0,0.0,not_used
+3,2022,elo_only,Spain,E,2097.582,3,2097.582,Elo-only baseline,71.61,45.74,24.16,13.94,7.37,0.0,0.0,0.0,not_used
+4,2022,elo_only,Netherlands,A,2077.618,4,2077.618,Elo-only baseline,78.42,53.16,27.89,14.37,7.22,0.0,0.0,0.0,not_used
+5,2022,elo_only,Belgium,F,2073.468,5,2073.468,Elo-only baseline,71.14,41.88,22.0,12.6,6.29,0.0,0.0,0.0,not_used
+6,2022,elo_only,France,D,2045.963,8,2045.963,Elo-only baseline,70.68,38.96,23.77,11.72,5.11,0.0,0.0,0.0,not_used
+7,2022,elo_only,Portugal,H,2049.904,7,2049.904,Elo-only baseline,73.7,37.06,20.34,11.05,4.93,0.0,0.0,0.0,not_used
+8,2022,elo_only,Denmark,D,2015.07,10,2015.07,Elo-only baseline,65.91,33.35,19.37,8.82,3.65,0.0,0.0,0.0,not_used
+9,2022,elo_only,Germany,E,2020.618,9,2020.618,Elo-only baseline,59.27,32.63,14.88,7.62,3.29,0.0,0.0,0.0,not_used
+10,2022,elo_only,England,B,1998.14,12,1998.14,Elo-only baseline,65.28,36.61,17.34,7.74,3.03,0.0,0.0,0.0,not_used
+11,2022,elo_only,Uruguay,H,2001.196,11,2001.196,Elo-only baseline,65.89,28.84,13.84,6.54,2.52,0.0,0.0,0.0,not_used
+12,2022,elo_only,Croatia,F,1968.942,14,1968.942,Elo-only baseline,53.05,24.82,10.0,4.37,1.64,0.0,0.0,0.0,not_used
+13,2022,elo_only,Switzerland,G,1962.566,15,1962.566,Elo-only baseline,50.86,24.3,10.95,4.62,1.57,0.0,0.0,0.0,not_used
+14,2022,elo_only,Serbia,G,1943.497,16,1943.497,Elo-only baseline,46.67,21.66,9.34,3.71,1.21,0.0,0.0,0.0,not_used
+15,2022,elo_only,Mexico,C,1908.288,18,1908.288,Elo-only baseline,47.7,20.71,9.59,3.28,1.02,0.0,0.0,0.0,not_used
+16,2022,elo_only,USA,B,1901.993,21,1901.993,Elo-only baseline,47.87,21.89,8.01,2.83,0.92,0.0,0.0,0.0,not_used
+17,2022,elo_only,Ecuador,A,1902.478,20,1902.478,Elo-only baseline,49.12,23.75,8.6,2.81,0.83,0.0,0.0,0.0,not_used
+18,2022,elo_only,Iran,B,1899.866,22,1899.866,Elo-only baseline,48.32,21.6,7.97,2.64,0.79,0.0,0.0,0.0,not_used
+19,2022,elo_only,Poland,C,1873.252,26,1873.252,Elo-only baseline,40.98,15.84,6.62,2.17,0.58,0.0,0.0,0.0,not_used
+20,2022,elo_only,Japan,E,1904.527,19,1904.527,Elo-only baseline,38.05,15.85,5.43,2.15,0.54,0.0,0.0,0.0,not_used
+21,2022,elo_only,South Korea,H,1893.47,24,1893.47,Elo-only baseline,45.6,14.44,5.54,1.97,0.54,0.0,0.0,0.0,not_used
+22,2022,elo_only,Canada,F,1898.716,23,1898.716,Elo-only baseline,40.75,15.77,5.27,1.79,0.51,0.0,0.0,0.0,not_used
+23,2022,elo_only,Costa Rica,E,1866.262,28,1866.262,Elo-only baseline,31.06,11.41,3.69,1.31,0.36,0.0,0.0,0.0,not_used
+24,2022,elo_only,Wales,B,1848.57,31,1848.57,Elo-only baseline,38.53,14.98,4.32,1.25,0.34,0.0,0.0,0.0,not_used
+25,2022,elo_only,Morocco,F,1864.918,29,1864.918,Elo-only baseline,35.05,11.9,3.4,0.99,0.3,0.0,0.0,0.0,not_used
+26,2022,elo_only,Qatar,A,1790.634,44,1790.634,Elo-only baseline,39.49,15.39,4.62,1.25,0.28,0.0,0.0,0.0,not_used
+27,2022,elo_only,Australia,D,1833.213,32,1833.213,Elo-only baseline,32.92,10.13,3.73,0.99,0.28,0.0,0.0,0.0,not_used
+28,2022,elo_only,Senegal,A,1813.069,38,1813.069,Elo-only baseline,32.95,12.61,3.74,1.05,0.23,0.0,0.0,0.0,not_used
+29,2022,elo_only,Tunisia,D,1818.325,35,1818.325,Elo-only baseline,30.5,8.82,3.19,0.76,0.15,0.0,0.0,0.0,not_used
+30,2022,elo_only,Saudi Arabia,C,1758.315,51,1758.315,Elo-only baseline,23.11,6.3,1.9,0.36,0.04,0.0,0.0,0.0,not_used
+31,2022,elo_only,Cameroon,G,1721.039,62,1721.039,Elo-only baseline,14.42,3.56,0.8,0.2,0.02,0.0,0.0,0.0,not_used
+32,2022,elo_only,Ghana,H,1676.968,76,1676.968,Elo-only baseline,14.81,2.19,0.46,0.07,0.01,0.0,0.0,0.0,not_used

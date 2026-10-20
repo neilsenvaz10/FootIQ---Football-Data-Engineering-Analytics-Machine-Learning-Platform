@@ -1,0 +1,11 @@
+year,metric,v22,v23,delta,interpretation
+2018,group_match_brier,0.1785,0.1797,0.0012,lower is better
+2018,group_match_log_loss,0.9153,0.9204,0.0051,lower is better
+2018,pick_accuracy_pct,47.92,47.92,0.0,higher is better; v2.3 includes draw picks
+2022,group_match_brier,0.2117,0.2111,-0.0006,lower is better
+2022,group_match_log_loss,1.0738,1.0655,-0.0083,lower is better
+2022,pick_accuracy_pct,45.83,43.75,-2.08,higher is better; v2.3 includes draw picks
+2018,champion_rank,5,8,3.0,rank lower is better; probability is descriptive
+2018,champion_probability_pct,7.13,6.63,-0.5,rank lower is better; probability is descriptive
+2022,champion_rank,3,3,0.0,rank lower is better; probability is descriptive
+2022,champion_probability_pct,16.23,12.61,-3.62,rank lower is better; probability is descriptive

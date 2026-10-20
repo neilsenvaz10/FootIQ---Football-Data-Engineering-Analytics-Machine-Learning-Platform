@@ -1,0 +1,29 @@
+tournament,team,elo,elo_rank,elo_score,squad_score,recent_form_score,tactical_score,availability_score,market_score,ceiling_score,manager_score,v23_lite_power_score,contender_tier,tactical_data_status
+Euro 2024,Germany,1992.505,13,96.407,84.861,86.228,65.404,100.0,50.0,66.0,65.0,84.671,Tier 2 dark horse,prior_statsbomb_worldcup_data
+Euro 2024,Scotland,1825.697,35,89.82,79.766,27.844,50.0,100.0,50.0,46.0,65.0,73.086,Tier 3 knockout threat,no_prior_tactical_data
+Euro 2024,Hungary,1886.664,22,93.713,81.595,69.76,50.0,100.0,50.0,46.0,65.0,79.03,Tier 3 knockout threat,no_prior_tactical_data
+Euro 2024,Switzerland,1843.417,29,91.617,80.61,38.623,49.769,100.0,50.0,46.0,65.0,74.949,Tier 3 knockout threat,prior_statsbomb_worldcup_data
+Euro 2024,Spain,2076.085,4,99.102,85.55,82.335,60.723,100.0,50.0,86.0,65.0,85.442,Tier 1 contender,prior_statsbomb_worldcup_data
+Euro 2024,Croatia,2007.642,11,97.006,85.143,78.443,59.669,100.0,50.0,66.0,65.0,83.589,Tier 2 dark horse,prior_statsbomb_worldcup_data
+Euro 2024,Italy,2001.798,12,96.707,85.002,76.347,50.0,100.0,50.0,66.0,65.0,82.277,Tier 2 dark horse,no_prior_tactical_data
+Euro 2024,Albania,1696.693,68,79.94,70.122,68.862,50.0,100.0,50.0,25.0,65.0,70.507,Tier 4 participant,no_prior_tactical_data
+Euro 2024,Slovenia,1794.922,43,87.425,73.64,88.024,50.0,100.0,50.0,25.0,65.0,75.795,Tier 4 participant,no_prior_tactical_data
+Euro 2024,Denmark,1875.777,23,93.413,81.454,66.168,45.794,100.0,50.0,46.0,65.0,78.115,Tier 3 knockout threat,prior_statsbomb_worldcup_data
+Euro 2024,Serbia,1855.737,27,92.216,80.891,54.79,50.624,100.0,50.0,46.0,65.0,76.921,Tier 3 knockout threat,prior_statsbomb_worldcup_data
+Euro 2024,England,2062.297,7,98.204,85.55,40.419,56.463,100.0,50.0,86.0,65.0,80.555,Tier 1 contender,prior_statsbomb_worldcup_data
+Euro 2024,Poland,1791.183,45,86.826,73.358,86.826,44.038,100.0,50.0,25.0,65.0,74.809,Tier 4 participant,prior_statsbomb_worldcup_data
+Euro 2024,Netherlands,2051.133,10,97.305,85.55,87.126,48.915,100.0,50.0,86.0,65.0,84.202,Tier 1 contender,prior_statsbomb_worldcup_data
+Euro 2024,Austria,1929.169,16,95.509,84.439,95.21,50.0,100.0,50.0,66.0,65.0,83.624,Tier 2 dark horse,no_prior_tactical_data
+Euro 2024,France,2148.179,2,99.701,85.55,53.593,55.121,100.0,50.0,86.0,65.0,82.188,Tier 1 contender,prior_statsbomb_worldcup_data
+Euro 2024,Belgium,2057.31,9,97.605,85.55,79.042,62.887,100.0,50.0,86.0,65.0,84.88,Tier 1 contender,prior_statsbomb_worldcup_data
+Euro 2024,Slovakia,1747.099,55,83.832,71.951,91.317,50.0,100.0,50.0,25.0,65.0,74.506,Tier 4 participant,no_prior_tactical_data
+Euro 2024,Romania,1721.694,62,81.737,70.966,55.988,50.0,100.0,50.0,25.0,65.0,70.029,Tier 4 participant,no_prior_tactical_data
+Euro 2024,Ukraine,1903.638,17,95.21,84.299,70.359,50.0,100.0,50.0,66.0,65.0,81.004,Tier 2 dark horse,no_prior_tactical_data
+Euro 2024,Turkey,1814.229,38,88.922,79.343,54.192,50.0,100.0,50.0,46.0,65.0,75.316,Tier 3 knockout threat,no_prior_tactical_data
+Euro 2024,Georgia,1727.871,61,82.036,71.107,87.425,50.0,100.0,50.0,25.0,65.0,73.307,Tier 4 participant,no_prior_tactical_data
+Euro 2024,Portugal,2063.473,6,98.503,85.55,59.581,49.74,100.0,50.0,86.0,65.0,81.889,Tier 1 contender,prior_statsbomb_worldcup_data
+Euro 2024,Czech Republic,1821.354,36,89.521,79.625,77.545,50.0,100.0,50.0,46.0,65.0,77.921,Tier 3 knockout threat,no_prior_tactical_data
+UEFA Nations League 2025 Finals,Germany,2048.977,6,98.503,85.55,85.629,65.404,100.0,50.0,86.0,65.0,86.06,Tier 1 contender,prior_statsbomb_worldcup_data
+UEFA Nations League 2025 Finals,Portugal,2041.965,7,98.204,85.55,77.844,49.74,100.0,50.0,86.0,65.0,83.625,Tier 1 contender,prior_statsbomb_worldcup_data
+UEFA Nations League 2025 Finals,Spain,2208.693,1,100.0,85.55,80.838,60.723,100.0,50.0,86.0,65.0,85.562,Tier 1 contender,prior_statsbomb_worldcup_data
+UEFA Nations League 2025 Finals,France,2097.689,3,99.401,85.55,68.862,55.121,100.0,50.0,86.0,65.0,83.625,Tier 1 contender,prior_statsbomb_worldcup_data

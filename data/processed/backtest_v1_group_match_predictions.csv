@@ -1,0 +1,193 @@
+year,variant,date,group,home_team,away_team,actual_score,actual_result,home_win_prob,draw_prob,away_win_prob,model_favorite_result,favorite_correct,public_verdict_team,public_verdict_type,confidence,verdict_correct
+2018,model_v1,2018-06-14,A,Russia,Saudi Arabia,5-0,home_win,0.4528,0.2667,0.2805,home_win,True,Russia,slight lean,Low,
+2018,model_v1,2018-06-15,A,Egypt,Uruguay,0-1,away_win,0.1759,0.2314,0.5927,away_win,True,Uruguay,win,High,True
+2018,model_v1,2018-06-15,B,Morocco,Iran,0-1,away_win,0.322,0.2722,0.4058,away_win,True,Morocco,upset watch,Low-medium,
+2018,model_v1,2018-06-15,B,Portugal,Spain,3-3,draw,0.2814,0.2669,0.4517,away_win,False,Spain,slight lean,Low,
+2018,model_v1,2018-06-16,C,France,Australia,2-1,home_win,0.5595,0.2421,0.1984,home_win,True,France,win lean,Medium,True
+2018,model_v1,2018-06-16,D,Argentina,Iceland,1-1,draw,0.5883,0.2329,0.1788,home_win,False,Argentina,win,High,False
+2018,model_v1,2018-06-16,C,Peru,Denmark,0-1,away_win,0.4808,0.2618,0.2573,home_win,False,Peru,avoid defeat,Medium-low,False
+2018,model_v1,2018-06-16,D,Croatia,Nigeria,2-0,home_win,0.5567,0.2429,0.2003,home_win,True,Croatia,win lean,Medium,True
+2018,model_v1,2018-06-17,E,Costa Rica,Serbia,0-1,away_win,0.3772,0.2737,0.3491,home_win,False,Serbia,upset watch,Low-medium,
+2018,model_v1,2018-06-17,F,Germany,Mexico,0-1,away_win,0.5296,0.2506,0.2198,home_win,False,Germany,win lean,Medium,False
+2018,model_v1,2018-06-17,E,Brazil,Switzerland,1-1,draw,0.604,0.2274,0.1686,home_win,False,Brazil,win,High,False
+2018,model_v1,2018-06-18,F,Sweden,South Korea,1-0,home_win,0.4109,0.2718,0.3173,home_win,True,South Korea,upset watch,Low-medium,
+2018,model_v1,2018-06-18,G,Belgium,Panama,3-0,home_win,0.6118,0.2246,0.1636,home_win,True,Belgium,win,High,True
+2018,model_v1,2018-06-18,G,Tunisia,England,1-2,away_win,0.1684,0.2273,0.6042,away_win,True,England,win,High,True
+2018,model_v1,2018-06-19,H,Colombia,Japan,1-2,away_win,0.5545,0.2436,0.2019,home_win,False,Colombia,win lean,Medium,False
+2018,model_v1,2018-06-19,H,Poland,Senegal,1-2,away_win,0.3896,0.2733,0.3371,home_win,False,Senegal,upset watch,Low-medium,
+2018,model_v1,2018-06-19,A,Russia,Egypt,3-1,home_win,0.4216,0.2708,0.3076,home_win,True,Egypt,upset watch,Low-medium,
+2018,model_v1,2018-06-20,B,Portugal,Morocco,1-0,home_win,0.5265,0.2514,0.2221,home_win,True,Portugal,win lean,Medium,True
+2018,model_v1,2018-06-20,A,Uruguay,Saudi Arabia,1-0,home_win,0.6238,0.2201,0.1561,home_win,True,Uruguay,win,High,True
+2018,model_v1,2018-06-20,B,Iran,Spain,0-1,away_win,0.1889,0.2378,0.5734,away_win,True,Spain,win lean,Medium,True
+2018,model_v1,2018-06-21,C,Denmark,Australia,1-1,draw,0.4192,0.271,0.3098,home_win,False,Australia,upset watch,Low-medium,
+2018,model_v1,2018-06-21,C,France,Peru,1-0,home_win,0.3815,0.2736,0.3449,home_win,True,Peru,upset watch,Low-medium,
+2018,model_v1,2018-06-21,D,Argentina,Croatia,0-3,away_win,0.4956,0.2588,0.2457,home_win,False,Argentina,avoid defeat,Medium-low,False
+2018,model_v1,2018-06-22,E,Brazil,Costa Rica,2-0,home_win,0.7116,0.1825,0.1059,home_win,True,Brazil,win,High,True
+2018,model_v1,2018-06-22,D,Nigeria,Iceland,2-0,home_win,0.2712,0.2649,0.4639,away_win,False,Iceland,avoid defeat,Medium-low,False
+2018,model_v1,2018-06-22,E,Serbia,Switzerland,1-2,away_win,0.251,0.2602,0.4888,away_win,True,Switzerland,avoid defeat,Medium-low,True
+2018,model_v1,2018-06-23,G,Belgium,Tunisia,5-2,home_win,0.5913,0.2318,0.1769,home_win,True,Belgium,win,High,True
+2018,model_v1,2018-06-23,F,South Korea,Mexico,1-2,away_win,0.2372,0.2563,0.5065,away_win,True,Mexico,win lean,Medium,True
+2018,model_v1,2018-06-23,F,Germany,Sweden,2-1,home_win,0.6253,0.2196,0.1552,home_win,True,Germany,win,High,True
+2018,model_v1,2018-06-24,G,England,Panama,6-1,home_win,0.6246,0.2198,0.1556,home_win,True,England,win,High,True
+2018,model_v1,2018-06-24,H,Japan,Senegal,2-2,draw,0.2946,0.2691,0.4363,away_win,False,Japan,upset watch,Low-medium,
+2018,model_v1,2018-06-24,H,Poland,Colombia,0-3,away_win,0.2828,0.2672,0.45,away_win,True,Colombia,slight lean,Low,
+2018,model_v1,2018-06-25,A,Uruguay,Russia,3-0,home_win,0.5315,0.25,0.2184,home_win,True,Uruguay,win lean,Medium,True
+2018,model_v1,2018-06-25,A,Saudi Arabia,Egypt,2-1,home_win,0.3339,0.2731,0.393,away_win,False,Saudi Arabia,upset watch,Low-medium,
+2018,model_v1,2018-06-25,B,Iran,Portugal,1-1,draw,0.2569,0.2617,0.4814,away_win,False,Portugal,avoid defeat,Medium-low,True
+2018,model_v1,2018-06-25,B,Spain,Morocco,2-2,draw,0.6178,0.2224,0.1598,home_win,False,Spain,win,High,False
+2018,model_v1,2018-06-26,C,Australia,Peru,0-2,away_win,0.2124,0.2478,0.5398,away_win,True,Peru,win lean,Medium,True
+2018,model_v1,2018-06-26,C,Denmark,France,0-0,draw,0.2418,0.2577,0.5005,away_win,False,France,win lean,Medium,False
+2018,model_v1,2018-06-26,D,Iceland,Croatia,1-2,away_win,0.2807,0.2668,0.4525,away_win,True,Croatia,slight lean,Low,
+2018,model_v1,2018-06-26,D,Nigeria,Argentina,1-2,away_win,0.1184,0.1933,0.6883,away_win,True,Argentina,win,High,True
+2018,model_v1,2018-06-27,F,Mexico,Sweden,0-3,away_win,0.4562,0.2662,0.2776,home_win,False,Mexico,avoid defeat,Medium-low,False
+2018,model_v1,2018-06-27,F,South Korea,Germany,2-0,home_win,0.1268,0.2,0.6733,away_win,False,Germany,win,High,False
+2018,model_v1,2018-06-27,E,Serbia,Brazil,0-2,away_win,0.099,0.1761,0.725,away_win,True,Brazil,win,High,True
+2018,model_v1,2018-06-27,E,Switzerland,Costa Rica,2-2,draw,0.4737,0.2632,0.2631,home_win,False,Switzerland,avoid defeat,Medium-low,True
+2018,model_v1,2018-06-28,H,Senegal,Colombia,0-1,away_win,0.2596,0.2624,0.478,away_win,True,Colombia,avoid defeat,Medium-low,True
+2018,model_v1,2018-06-28,H,Japan,Poland,0-1,away_win,0.2709,0.2649,0.4642,away_win,True,Poland,avoid defeat,Medium-low,True
+2018,model_v1,2018-06-28,G,Panama,Tunisia,1-2,away_win,0.3437,0.2736,0.3827,away_win,True,Panama,upset watch,Low-medium,
+2018,model_v1,2018-06-28,G,England,Belgium,0-1,away_win,0.3753,0.2738,0.3509,home_win,False,Belgium,upset watch,Low-medium,
+2018,elo_only,2018-06-14,A,Russia,Saudi Arabia,5-0,home_win,0.4521,0.2668,0.281,home_win,True,Russia,slight lean,Low,
+2018,elo_only,2018-06-15,A,Egypt,Uruguay,0-1,away_win,0.2153,0.2489,0.5358,away_win,True,Uruguay,win lean,Medium,True
+2018,elo_only,2018-06-15,B,Morocco,Iran,0-1,away_win,0.3104,0.2711,0.4185,away_win,True,Morocco,upset watch,Low-medium,
+2018,elo_only,2018-06-15,B,Portugal,Spain,3-3,draw,0.2977,0.2695,0.4328,away_win,False,Portugal,upset watch,Low-medium,
+2018,elo_only,2018-06-16,C,France,Australia,2-1,home_win,0.5329,0.2497,0.2174,home_win,True,France,win lean,Medium,True
+2018,elo_only,2018-06-16,D,Argentina,Iceland,1-1,draw,0.5449,0.2464,0.2087,home_win,False,Argentina,win lean,Medium,False
+2018,elo_only,2018-06-16,C,Peru,Denmark,0-1,away_win,0.4628,0.2651,0.2721,home_win,False,Peru,avoid defeat,Medium-low,False
+2018,elo_only,2018-06-16,D,Croatia,Nigeria,2-0,home_win,0.5149,0.2543,0.2308,home_win,True,Croatia,win lean,Medium,True
+2018,elo_only,2018-06-17,E,Costa Rica,Serbia,0-1,away_win,0.3958,0.2729,0.3312,home_win,False,Serbia,upset watch,Low-medium,
+2018,elo_only,2018-06-17,F,Germany,Mexico,0-1,away_win,0.5099,0.2555,0.2346,home_win,False,Germany,win lean,Medium,False
+2018,elo_only,2018-06-17,E,Brazil,Switzerland,1-1,draw,0.5767,0.2367,0.1866,home_win,False,Brazil,win lean,Medium,False
+2018,elo_only,2018-06-18,F,Sweden,South Korea,1-0,home_win,0.3971,0.2728,0.33,home_win,True,South Korea,upset watch,Low-medium,
+2018,elo_only,2018-06-18,G,Belgium,Panama,3-0,home_win,0.5515,0.2445,0.204,home_win,True,Belgium,win lean,Medium,True
+2018,elo_only,2018-06-18,G,Tunisia,England,1-2,away_win,0.1995,0.2426,0.558,away_win,True,England,win lean,Medium,True
+2018,elo_only,2018-06-19,H,Colombia,Japan,1-2,away_win,0.525,0.2517,0.2232,home_win,False,Colombia,win lean,Medium,False
+2018,elo_only,2018-06-19,H,Poland,Senegal,1-2,away_win,0.3879,0.2733,0.3387,home_win,False,Senegal,upset watch,Low-medium,
+2018,elo_only,2018-06-19,A,Russia,Egypt,3-1,home_win,0.4184,0.2711,0.3105,home_win,True,Egypt,upset watch,Low-medium,
+2018,elo_only,2018-06-20,B,Portugal,Morocco,1-0,home_win,0.5238,0.2521,0.2241,home_win,True,Portugal,win lean,Medium,True
+2018,elo_only,2018-06-20,A,Uruguay,Saudi Arabia,1-0,home_win,0.5702,0.2388,0.191,home_win,True,Uruguay,win lean,Medium,True
+2018,elo_only,2018-06-20,B,Iran,Spain,0-1,away_win,0.2134,0.2482,0.5385,away_win,True,Spain,win lean,Medium,True
+2018,elo_only,2018-06-21,C,Denmark,Australia,1-1,draw,0.4057,0.2722,0.3221,home_win,False,Australia,upset watch,Low-medium,
+2018,elo_only,2018-06-21,C,France,Peru,1-0,home_win,0.3867,0.2734,0.3399,home_win,True,Peru,upset watch,Low-medium,
+2018,elo_only,2018-06-21,D,Argentina,Croatia,0-3,away_win,0.4822,0.2615,0.2562,home_win,False,Argentina,avoid defeat,Medium-low,False
+2018,elo_only,2018-06-22,E,Brazil,Costa Rica,2-0,home_win,0.6504,0.2096,0.14,home_win,True,Brazil,win,High,True
+2018,elo_only,2018-06-22,D,Nigeria,Iceland,2-0,home_win,0.2807,0.2668,0.4525,away_win,False,Iceland,slight lean,Low,
+2018,elo_only,2018-06-22,E,Serbia,Switzerland,1-2,away_win,0.2663,0.2639,0.4698,away_win,True,Switzerland,avoid defeat,Medium-low,True
+2018,elo_only,2018-06-23,G,Belgium,Tunisia,5-2,home_win,0.5518,0.2444,0.2038,home_win,True,Belgium,win lean,Medium,True
+2018,elo_only,2018-06-23,F,South Korea,Mexico,1-2,away_win,0.2588,0.2622,0.479,away_win,True,Mexico,avoid defeat,Medium-low,True
+2018,elo_only,2018-06-23,F,Germany,Sweden,2-1,home_win,0.5932,0.2312,0.1756,home_win,True,Germany,win,High,True
+2018,elo_only,2018-06-24,G,England,Panama,6-1,home_win,0.5577,0.2426,0.1997,home_win,True,England,win lean,Medium,True
+2018,elo_only,2018-06-24,H,Japan,Senegal,2-2,draw,0.3119,0.2713,0.4169,away_win,False,Japan,upset watch,Low-medium,
+2018,elo_only,2018-06-24,H,Poland,Colombia,0-3,away_win,0.2893,0.2683,0.4424,away_win,True,Poland,upset watch,Low-medium,
+2018,elo_only,2018-06-25,A,Uruguay,Russia,3-0,home_win,0.4777,0.2624,0.2598,home_win,True,Uruguay,avoid defeat,Medium-low,True
+2018,elo_only,2018-06-25,A,Saudi Arabia,Egypt,2-1,home_win,0.3315,0.2729,0.3956,away_win,False,Saudi Arabia,upset watch,Low-medium,
+2018,elo_only,2018-06-25,B,Iran,Portugal,1-1,draw,0.2698,0.2646,0.4656,away_win,False,Portugal,avoid defeat,Medium-low,True
+2018,elo_only,2018-06-25,B,Spain,Morocco,2-2,draw,0.5964,0.2301,0.1735,home_win,False,Spain,win,High,False
+2018,elo_only,2018-06-26,C,Australia,Peru,0-2,away_win,0.2363,0.256,0.5077,away_win,True,Peru,win lean,Medium,True
+2018,elo_only,2018-06-26,C,Denmark,France,0-0,draw,0.2517,0.2604,0.4879,away_win,False,France,avoid defeat,Medium-low,True
+2018,elo_only,2018-06-26,D,Iceland,Croatia,1-2,away_win,0.3065,0.2707,0.4228,away_win,True,Iceland,upset watch,Low-medium,
+2018,elo_only,2018-06-26,D,Nigeria,Argentina,1-2,away_win,0.1484,0.2153,0.6364,away_win,True,Argentina,win,High,True
+2018,elo_only,2018-06-27,F,Mexico,Sweden,0-3,away_win,0.4433,0.2681,0.2886,home_win,False,Sweden,upset watch,Low-medium,
+2018,elo_only,2018-06-27,F,South Korea,Germany,2-0,home_win,0.1532,0.2184,0.6284,away_win,False,Germany,win,High,False
+2018,elo_only,2018-06-27,E,Serbia,Brazil,0-2,away_win,0.1213,0.1957,0.683,away_win,True,Brazil,win,High,True
+2018,elo_only,2018-06-27,E,Switzerland,Costa Rica,2-2,draw,0.4354,0.2692,0.2954,home_win,False,Costa Rica,upset watch,Low-medium,
+2018,elo_only,2018-06-28,H,Senegal,Colombia,0-1,away_win,0.2673,0.2641,0.4686,away_win,True,Colombia,avoid defeat,Medium-low,True
+2018,elo_only,2018-06-28,H,Japan,Poland,0-1,away_win,0.2891,0.2682,0.4427,away_win,True,Japan,upset watch,Low-medium,
+2018,elo_only,2018-06-28,G,Panama,Tunisia,1-2,away_win,0.3633,0.2739,0.3628,home_win,False,Tunisia,upset watch,Low-medium,
+2018,elo_only,2018-06-28,G,England,Belgium,0-1,away_win,0.3688,0.2739,0.3573,home_win,False,Belgium,upset watch,Low-medium,
+2022,model_v1,2022-11-20,A,Qatar,Ecuador,0-2,away_win,0.3074,0.2708,0.4218,away_win,True,Qatar,upset watch,Low-medium,
+2022,model_v1,2022-11-21,B,England,Iran,6-2,home_win,0.4525,0.2668,0.2807,home_win,True,England,slight lean,Low,
+2022,model_v1,2022-11-21,A,Senegal,Netherlands,0-2,away_win,0.1343,0.2056,0.6601,away_win,True,Netherlands,win,High,True
+2022,model_v1,2022-11-21,B,USA,Wales,1-1,draw,0.4134,0.2716,0.315,home_win,False,Wales,upset watch,Low-medium,
+2022,model_v1,2022-11-22,C,Argentina,Saudi Arabia,1-2,away_win,0.7914,0.1413,0.0673,home_win,False,Argentina,win,High,False
+2022,model_v1,2022-11-22,D,Denmark,Tunisia,0-0,draw,0.529,0.2507,0.2203,home_win,False,Denmark,win lean,Medium,False
+2022,model_v1,2022-11-22,C,Mexico,Poland,0-0,draw,0.3856,0.2735,0.341,home_win,False,Poland,upset watch,Low-medium,
+2022,model_v1,2022-11-22,D,France,Australia,4-1,home_win,0.545,0.2463,0.2087,home_win,True,France,win lean,Medium,True
+2022,model_v1,2022-11-23,F,Morocco,Croatia,0-0,draw,0.249,0.2597,0.4914,away_win,False,Croatia,avoid defeat,Medium-low,True
+2022,model_v1,2022-11-23,E,Germany,Japan,1-2,away_win,0.4837,0.2612,0.2551,home_win,False,Germany,avoid defeat,Medium-low,False
+2022,model_v1,2022-11-23,E,Spain,Costa Rica,7-0,home_win,0.6027,0.2279,0.1694,home_win,True,Spain,win,High,True
+2022,model_v1,2022-11-23,F,Belgium,Canada,1-0,home_win,0.5404,0.2476,0.212,home_win,True,Belgium,win lean,Medium,True
+2022,model_v1,2022-11-24,G,Switzerland,Cameroon,1-0,home_win,0.6104,0.2251,0.1645,home_win,True,Switzerland,win,High,True
+2022,model_v1,2022-11-24,H,Uruguay,South Korea,0-0,draw,0.479,0.2622,0.2588,home_win,False,Uruguay,avoid defeat,Medium-low,True
+2022,model_v1,2022-11-24,H,Portugal,Ghana,3-2,home_win,0.7307,0.1733,0.0961,home_win,True,Portugal,win,High,True
+2022,model_v1,2022-11-24,G,Brazil,Serbia,2-0,home_win,0.6294,0.218,0.1526,home_win,True,Brazil,win,High,True
+2022,model_v1,2022-11-25,B,Wales,Iran,0-2,away_win,0.3181,0.2719,0.41,away_win,True,Wales,upset watch,Low-medium,
+2022,model_v1,2022-11-25,A,Qatar,Senegal,1-3,away_win,0.3933,0.2731,0.3337,home_win,False,Senegal,upset watch,Low-medium,
+2022,model_v1,2022-11-25,A,Netherlands,Ecuador,1-1,draw,0.5689,0.2392,0.1919,home_win,False,Netherlands,win lean,Medium,False
+2022,model_v1,2022-11-25,B,England,USA,0-0,draw,0.4491,0.2673,0.2836,home_win,False,England,slight lean,Low,
+2022,model_v1,2022-11-26,D,Tunisia,Australia,0-1,away_win,0.3674,0.2739,0.3587,home_win,False,Australia,upset watch,Low-medium,
+2022,model_v1,2022-11-26,C,Poland,Saudi Arabia,2-0,home_win,0.4925,0.2594,0.2481,home_win,True,Poland,avoid defeat,Medium-low,True
+2022,model_v1,2022-11-26,D,France,Denmark,2-1,home_win,0.3735,0.2738,0.3526,home_win,True,Denmark,upset watch,Low-medium,
+2022,model_v1,2022-11-26,C,Argentina,Mexico,2-0,home_win,0.6553,0.2076,0.1371,home_win,True,Argentina,win,High,True
+2022,model_v1,2022-11-27,E,Japan,Costa Rica,0-1,away_win,0.3898,0.2733,0.337,home_win,False,Costa Rica,upset watch,Low-medium,
+2022,model_v1,2022-11-27,F,Belgium,Morocco,0-2,away_win,0.5606,0.2418,0.1977,home_win,False,Belgium,win lean,Medium,False
+2022,model_v1,2022-11-27,F,Croatia,Canada,4-1,home_win,0.4712,0.2636,0.2652,home_win,True,Croatia,avoid defeat,Medium-low,True
+2022,model_v1,2022-11-27,E,Spain,Germany,1-1,draw,0.4507,0.2671,0.2822,home_win,False,Spain,slight lean,Low,
+2022,model_v1,2022-11-28,G,Cameroon,Serbia,3-3,draw,0.1587,0.2217,0.6195,away_win,False,Serbia,win,High,False
+2022,model_v1,2022-11-28,H,South Korea,Ghana,2-3,away_win,0.5743,0.2375,0.1882,home_win,False,South Korea,win lean,Medium,False
+2022,model_v1,2022-11-28,G,Brazil,Switzerland,1-0,home_win,0.6384,0.2145,0.1471,home_win,True,Brazil,win,High,True
+2022,model_v1,2022-11-28,H,Portugal,Uruguay,2-0,home_win,0.4071,0.2721,0.3208,home_win,True,Uruguay,upset watch,Low-medium,
+2022,model_v1,2022-11-29,A,Ecuador,Senegal,1-2,away_win,0.4533,0.2667,0.2801,home_win,False,Ecuador,slight lean,Low,
+2022,model_v1,2022-11-29,A,Netherlands,Qatar,2-0,home_win,0.6294,0.218,0.1526,home_win,True,Netherlands,win,High,True
+2022,model_v1,2022-11-29,B,Wales,England,0-3,away_win,0.2408,0.2574,0.5018,away_win,True,England,win lean,Medium,True
+2022,model_v1,2022-11-29,B,Iran,USA,0-1,away_win,0.3598,0.2739,0.3663,away_win,True,Iran,upset watch,Low-medium,
+2022,model_v1,2022-11-30,D,Australia,Denmark,1-0,home_win,0.2168,0.2495,0.5337,away_win,False,Denmark,win lean,Medium,False
+2022,model_v1,2022-11-30,D,Tunisia,France,1-0,home_win,0.2121,0.2477,0.5403,away_win,False,France,win lean,Medium,False
+2022,model_v1,2022-11-30,C,Saudi Arabia,Mexico,1-2,away_win,0.2296,0.2539,0.5165,away_win,True,Mexico,win lean,Medium,True
+2022,model_v1,2022-11-30,C,Poland,Argentina,0-2,away_win,0.1242,0.198,0.6777,away_win,True,Argentina,win,High,True
+2022,model_v1,2022-12-01,F,Canada,Morocco,1-2,away_win,0.382,0.2736,0.3444,home_win,False,Morocco,upset watch,Low-medium,
+2022,model_v1,2022-12-01,F,Croatia,Belgium,0-0,draw,0.3009,0.2699,0.4292,away_win,False,Croatia,upset watch,Low-medium,
+2022,model_v1,2022-12-01,E,Japan,Spain,2-1,home_win,0.188,0.2374,0.5747,away_win,False,Spain,win lean,Medium,False
+2022,model_v1,2022-12-01,E,Costa Rica,Germany,2-4,away_win,0.233,0.255,0.512,away_win,True,Germany,win lean,Medium,True
+2022,model_v1,2022-12-02,H,South Korea,Portugal,2-1,home_win,0.2229,0.2516,0.5255,away_win,False,Portugal,win lean,Medium,False
+2022,model_v1,2022-12-02,H,Ghana,Uruguay,0-2,away_win,0.1179,0.1929,0.6893,away_win,True,Uruguay,win,High,True
+2022,model_v1,2022-12-02,G,Serbia,Switzerland,2-3,away_win,0.3718,0.2739,0.3544,home_win,False,Switzerland,upset watch,Low-medium,
+2022,model_v1,2022-12-02,G,Cameroon,Brazil,1-0,home_win,0.0447,0.1093,0.846,away_win,False,Brazil,win,High,False
+2022,elo_only,2022-11-20,A,Qatar,Ecuador,0-2,away_win,0.3178,0.2719,0.4104,away_win,True,Qatar,upset watch,Low-medium,
+2022,elo_only,2022-11-21,B,England,Iran,6-2,home_win,0.4459,0.2678,0.2864,home_win,True,Iran,upset watch,Low-medium,
+2022,elo_only,2022-11-21,A,Senegal,Netherlands,0-2,away_win,0.177,0.2319,0.5911,away_win,True,Netherlands,win,High,True
+2022,elo_only,2022-11-21,B,USA,Wales,1-1,draw,0.4075,0.2721,0.3204,home_win,False,Wales,upset watch,Low-medium,
+2022,elo_only,2022-11-22,C,Argentina,Saudi Arabia,1-2,away_win,0.7299,0.1737,0.0965,home_win,False,Argentina,win,High,False
+2022,elo_only,2022-11-22,D,Denmark,Tunisia,0-0,draw,0.5319,0.2499,0.2181,home_win,False,Denmark,win lean,Medium,False
+2022,elo_only,2022-11-22,C,Mexico,Poland,0-0,draw,0.392,0.2731,0.3349,home_win,False,Poland,upset watch,Low-medium,
+2022,elo_only,2022-11-22,D,France,Australia,4-1,home_win,0.546,0.2461,0.208,home_win,True,France,win lean,Medium,True
+2022,elo_only,2022-11-23,F,Morocco,Croatia,0-0,draw,0.2821,0.267,0.4508,away_win,False,Croatia,slight lean,Low,
+2022,elo_only,2022-11-23,E,Germany,Japan,1-2,away_win,0.4613,0.2654,0.2733,home_win,False,Germany,avoid defeat,Medium-low,False
+2022,elo_only,2022-11-23,E,Spain,Costa Rica,7-0,home_win,0.5622,0.2413,0.1965,home_win,True,Spain,win lean,Medium,True
+2022,elo_only,2022-11-23,F,Belgium,Canada,1-0,home_win,0.5126,0.2548,0.2325,home_win,True,Belgium,win lean,Medium,True
+2022,elo_only,2022-11-24,G,Switzerland,Cameroon,1-0,home_win,0.5711,0.2385,0.1904,home_win,True,Switzerland,win lean,Medium,True
+2022,elo_only,2022-11-24,H,Uruguay,South Korea,0-0,draw,0.454,0.2665,0.2794,home_win,False,Uruguay,avoid defeat,Medium-low,True
+2022,elo_only,2022-11-24,H,Portugal,Ghana,3-2,home_win,0.6823,0.196,0.1217,home_win,True,Portugal,win,High,True
+2022,elo_only,2022-11-24,G,Brazil,Serbia,2-0,home_win,0.6082,0.2259,0.1659,home_win,True,Brazil,win,High,True
+2022,elo_only,2022-11-25,B,Wales,Iran,0-2,away_win,0.3221,0.2722,0.4057,away_win,True,Wales,upset watch,Low-medium,
+2022,elo_only,2022-11-25,A,Qatar,Senegal,1-3,away_win,0.3899,0.2733,0.3368,home_win,False,Senegal,upset watch,Low-medium,
+2022,elo_only,2022-11-25,A,Netherlands,Ecuador,1-1,draw,0.513,0.2548,0.2323,home_win,False,Netherlands,win lean,Medium,False
+2022,elo_only,2022-11-25,B,England,USA,0-0,draw,0.444,0.268,0.2879,home_win,False,USA,upset watch,Low-medium,
+2022,elo_only,2022-11-26,D,Tunisia,Australia,0-1,away_win,0.351,0.2738,0.3753,away_win,True,Tunisia,upset watch,Low-medium,
+2022,elo_only,2022-11-26,C,Poland,Saudi Arabia,2-0,home_win,0.4603,0.2655,0.2742,home_win,True,Poland,avoid defeat,Medium-low,True
+2022,elo_only,2022-11-26,D,France,Denmark,2-1,home_win,0.3885,0.2733,0.3381,home_win,True,Denmark,upset watch,Low-medium,
+2022,elo_only,2022-11-26,C,Argentina,Mexico,2-0,home_win,0.6075,0.2262,0.1664,home_win,True,Argentina,win,High,True
+2022,elo_only,2022-11-27,E,Japan,Costa Rica,0-1,away_win,0.3947,0.273,0.3323,home_win,False,Costa Rica,upset watch,Low-medium,
+2022,elo_only,2022-11-27,F,Belgium,Morocco,0-2,away_win,0.5423,0.2471,0.2106,home_win,False,Belgium,win lean,Medium,False
+2022,elo_only,2022-11-27,F,Croatia,Canada,4-1,home_win,0.4218,0.2708,0.3075,home_win,True,Canada,upset watch,Low-medium,
+2022,elo_only,2022-11-27,E,Spain,Germany,1-1,draw,0.4275,0.2701,0.3023,home_win,False,Germany,upset watch,Low-medium,
+2022,elo_only,2022-11-28,G,Cameroon,Serbia,3-3,draw,0.2019,0.2436,0.5545,away_win,False,Serbia,win lean,Medium,False
+2022,elo_only,2022-11-28,H,South Korea,Ghana,2-3,away_win,0.5492,0.2451,0.2056,home_win,False,South Korea,win lean,Medium,False
+2022,elo_only,2022-11-28,G,Brazil,Switzerland,1-0,home_win,0.5918,0.2317,0.1765,home_win,True,Brazil,win,High,True
+2022,elo_only,2022-11-28,H,Portugal,Uruguay,2-0,home_win,0.4035,0.2724,0.3241,home_win,True,Uruguay,upset watch,Low-medium,
+2022,elo_only,2022-11-29,A,Ecuador,Senegal,1-2,away_win,0.4382,0.2688,0.293,home_win,False,Senegal,upset watch,Low-medium,
+2022,elo_only,2022-11-29,A,Netherlands,Qatar,2-0,home_win,0.5628,0.2411,0.1961,home_win,True,Netherlands,win lean,Medium,True
+2022,elo_only,2022-11-29,B,Wales,England,0-3,away_win,0.2496,0.2598,0.4905,away_win,True,England,avoid defeat,Medium-low,True
+2022,elo_only,2022-11-29,B,Iran,USA,0-1,away_win,0.3613,0.2739,0.3648,away_win,True,Iran,upset watch,Low-medium,
+2022,elo_only,2022-11-30,D,Australia,Denmark,1-0,home_win,0.2278,0.2533,0.5188,away_win,False,Denmark,win lean,Medium,False
+2022,elo_only,2022-11-30,D,Tunisia,France,1-0,home_win,0.1988,0.2422,0.559,away_win,False,France,win lean,Medium,False
+2022,elo_only,2022-11-30,C,Saudi Arabia,Mexico,1-2,away_win,0.2494,0.2598,0.4909,away_win,True,Mexico,avoid defeat,Medium-low,True
+2022,elo_only,2022-11-30,C,Poland,Argentina,0-2,away_win,0.1478,0.2149,0.6373,away_win,True,Argentina,win,High,True
+2022,elo_only,2022-12-01,F,Canada,Morocco,1-2,away_win,0.391,0.2732,0.3358,home_win,False,Morocco,upset watch,Low-medium,
+2022,elo_only,2022-12-01,F,Croatia,Belgium,0-0,draw,0.2818,0.267,0.4513,away_win,False,Belgium,slight lean,Low,
+2022,elo_only,2022-12-01,E,Japan,Spain,2-1,home_win,0.2205,0.2508,0.5287,away_win,False,Spain,win lean,Medium,False
+2022,elo_only,2022-12-01,E,Costa Rica,Germany,2-4,away_win,0.2463,0.2589,0.4947,away_win,True,Germany,avoid defeat,Medium-low,True
+2022,elo_only,2022-12-02,H,South Korea,Portugal,2-1,home_win,0.2449,0.2585,0.4965,away_win,False,Portugal,avoid defeat,Medium-low,False
+2022,elo_only,2022-12-02,H,Ghana,Uruguay,0-2,away_win,0.1449,0.213,0.6421,away_win,True,Uruguay,win,High,True
+2022,elo_only,2022-12-02,G,Serbia,Switzerland,2-3,away_win,0.3476,0.2737,0.3787,away_win,True,Serbia,upset watch,Low-medium,
+2022,elo_only,2022-12-02,G,Cameroon,Brazil,1-0,home_win,0.071,0.1459,0.7831,away_win,False,Brazil,win,High,False

@@ -1,0 +1,20 @@
+{
+  "seed": 20260605,
+  "simulations": 50000,
+  "base_goal_rate": 1.18,
+  "power_goal_scale": 43.0,
+  "host_advantage_group_power": 3.0,
+  "host_advantage_knockout_power": 2.0,
+  "knockout_draw_penalty_noise": 3.5,
+  "weights": {
+    "elo_score": 0.3,
+    "squad_score": 0.25,
+    "manager_score": 0.15,
+    "recent_form_score": 0.1,
+    "tactical_score": 0.1,
+    "ceiling_score": 0.05,
+    "availability_score": 0.05
+  },
+  "profile_input": "data/inputs/model_v21_team_profiles.csv",
+  "player_impact_input": "data/processed/player_impact_v21.csv"
+}

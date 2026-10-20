@@ -1,0 +1,4 @@
+date,time_et,team1,team2,confidence_gate,best_90min_read,team1_win_probability,draw_probability,team2_win_probability,team1_advance_probability,team2_advance_probability,temperature_c,precipitation_probability,wind_speed_kmh,data_status
+2026-07-02,19:00,Portugal,Croatia,Pass,Portugal win,0.42862,0.31930,0.25208,0.6128,0.3872,33.7,31.0,16.8,provisional_official_bracket_plus_weather_no_live_provider_or_lineups
+2026-07-02,15:00,Spain,Austria,Model Lean,Spain win,0.64327,0.27397,0.08277,0.7212,0.2788,21.7,0.0,14.9,provisional_official_bracket_plus_weather_no_live_provider_or_lineups
+2026-07-02,23:00,Switzerland,Algeria,Pass,Switzerland win,0.41893,0.35769,0.22338,0.5969,0.4031,16.3,9.0,4.1,provisional_official_bracket_plus_weather_no_live_provider_or_lineups

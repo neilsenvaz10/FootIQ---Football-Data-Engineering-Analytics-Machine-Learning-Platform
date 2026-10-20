@@ -1,0 +1,73 @@
+fixture_id,date,time,group,ground,team1,team2,public_verdict,confidence,model_reason,team1_win_probability_internal,draw_probability_internal,team2_win_probability_internal,team1_internal_xg,team2_internal_xg,team1_power,team2_power,power_diff_team1
+1,2026-06-11,13:00 UTC-6,A,Mexico City,Mexico,South Africa,Mexico win,High,Strong favorite across weighted v2 layers,0.8896,0.0823,0.0281,3.138,0.444,76.727,34.664,42.063
+2,2026-06-11,20:00 UTC-6,A,Guadalajara (Zapopan),South Korea,Czech Republic,South Korea avoid defeat,Medium-low,Best call is protection against the draw/upset,0.4969,0.263,0.2402,1.479,0.941,57.17,47.451,9.719
+3,2026-06-18,12:00 UTC-4,A,Atlanta,Czech Republic,South Africa,Czech Republic win lean,Medium,"Clear edge, but still not framed as certainty",0.5413,0.2515,0.2072,1.589,0.876,47.451,34.664,12.787
+4,2026-06-18,19:00 UTC-6,A,Guadalajara (Zapopan),Mexico,South Korea,Mexico win,High,Strong favorite across weighted v2 layers,0.6377,0.218,0.1443,1.86,0.749,76.727,57.17,19.557
+5,2026-06-24,19:00 UTC-6,A,Mexico City,Czech Republic,Mexico,Mexico win,High,Strong favorite across weighted v2 layers,0.0779,0.1582,0.7639,0.597,2.331,47.451,76.727,-29.276
+6,2026-06-24,19:00 UTC-6,A,Monterrey (Guadalupe),South Africa,South Korea,South Korea win,High,Strong favorite across weighted v2 layers,0.1212,0.2007,0.678,0.699,1.992,34.664,57.17,-22.506
+7,2026-06-12,15:00 UTC-4,B,Toronto,Canada,Bosnia & Herzegovina,Canada win,High,Strong favorite across weighted v2 layers,0.7774,0.1508,0.0717,2.395,0.581,66.53,36.092,30.438
+8,2026-06-13,12:00 UTC-7,B,San Francisco Bay Area (Santa Clara),Qatar,Switzerland,Switzerland win,High,Strong favorite across weighted v2 layers,0.0365,0.0984,0.8651,0.476,2.928,30.387,69.467,-39.08
+9,2026-06-18,12:00 UTC-7,B,Los Angeles (Inglewood),Switzerland,Bosnia & Herzegovina,Switzerland win,High,Strong favorite across weighted v2 layers,0.8099,0.1323,0.0577,2.564,0.543,69.467,36.092,33.375
+10,2026-06-18,15:00 UTC-7,B,Vancouver,Canada,Qatar,Canada win,High,Strong favorite across weighted v2 layers,0.8381,0.1154,0.0465,2.735,0.509,66.53,30.387,36.143
+11,2026-06-24,12:00 UTC-7,B,Vancouver,Switzerland,Canada,No strong edge,Pass,Model sees too little separation for a public winner call,0.4004,0.2779,0.3217,1.263,1.102,69.467,66.53,2.937
+12,2026-06-24,12:00 UTC-7,B,Seattle,Bosnia & Herzegovina,Qatar,No strong edge,Pass,Model sees too little separation for a public winner call,0.4393,0.2736,0.2871,1.347,1.033,36.092,30.387,5.705
+13,2026-06-13,18:00 UTC-4,C,New York/New Jersey (East Rutherford),Brazil,Morocco,No strong edge,Pass,Close enough that forcing a pick would be noise,0.4747,0.2677,0.2576,1.427,0.976,85.168,76.987,8.181
+14,2026-06-13,21:00 UTC-4,C,Boston (Foxborough),Haiti,Scotland,Scotland win lean,Medium,"Clear edge, but still not framed as certainty",0.2094,0.2524,0.5382,0.881,1.581,40.536,53.113,-12.577
+15,2026-06-19,18:00 UTC-4,C,Boston (Foxborough),Scotland,Morocco,Morocco win,High,Strong favorite across weighted v2 layers,0.1114,0.1924,0.6962,0.677,2.056,53.113,76.987,-23.874
+16,2026-06-19,20:30 UTC-4,C,Philadelphia,Brazil,Haiti,Brazil win,High,Strong favorite across weighted v2 layers,0.8987,0.0767,0.0247,3.2,0.418,85.168,40.536,44.632
+17,2026-06-24,18:00 UTC-4,C,Miami (Miami Gardens),Scotland,Brazil,Brazil win,High,Strong favorite across weighted v2 layers,0.0638,0.1406,0.7956,0.56,2.487,53.113,85.168,-32.055
+18,2026-06-24,18:00 UTC-4,C,Atlanta,Morocco,Haiti,Morocco win,High,Strong favorite across weighted v2 layers,0.841,0.1136,0.0454,2.754,0.506,76.987,40.536,36.451
+19,2026-06-12,18:00 UTC-7,D,Los Angeles (Inglewood),USA,Paraguay,No strong edge,Pass,Model sees too little separation for a public winner call,0.3835,0.2789,0.3377,1.228,1.134,65.0,63.292,1.708
+20,2026-06-13,21:00 UTC-7,D,Vancouver,Australia,Turkey,Turkey win lean,Medium,"Clear edge, but still not framed as certainty",0.1835,0.2408,0.5757,0.829,1.679,59.103,74.281,-15.178
+21,2026-06-19,12:00 UTC-7,D,Seattle,USA,Australia,No strong edge,Pass,Model sees too little separation for a public winner call,0.442,0.2732,0.2847,1.353,1.029,65.0,59.103,5.897
+22,2026-06-19,20:00 UTC-7,D,San Francisco Bay Area (Santa Clara),Turkey,Paraguay,Turkey avoid defeat,Medium-low,Best call is protection against the draw/upset,0.5152,0.2586,0.2262,1.524,0.914,74.281,63.292,10.989
+23,2026-06-25,19:00 UTC-7,D,Los Angeles (Inglewood),Turkey,USA,Turkey avoid defeat,Medium-low,Best call is protection against the draw/upset,0.4905,0.2644,0.2451,1.464,0.951,74.281,65.0,9.281
+24,2026-06-25,19:00 UTC-7,D,San Francisco Bay Area (Santa Clara),Paraguay,Australia,No strong edge,Pass,Model sees too little separation for a public winner call,0.4179,0.2763,0.3059,1.301,1.07,63.292,59.103,4.189
+25,2026-06-14,12:00 UTC-5,E,Houston,Germany,Curaçao,Germany win,High,Strong favorite across weighted v2 layers,0.9106,0.0704,0.019,3.2,0.341,81.351,27.969,53.382
+26,2026-06-14,19:00 UTC-4,E,Philadelphia,Ivory Coast,Ecuador,Ecuador win,High,Strong favorite across weighted v2 layers,0.1502,0.2218,0.628,0.761,1.83,56.438,75.298,-18.86
+27,2026-06-20,16:00 UTC-4,E,Toronto,Germany,Ivory Coast,Germany win,High,Strong favorite across weighted v2 layers,0.7098,0.1859,0.1043,2.106,0.661,81.351,56.438,24.913
+28,2026-06-20,19:00 UTC-5,E,Kansas City,Ecuador,Curaçao,Ecuador win,High,Strong favorite across weighted v2 layers,0.9026,0.0746,0.0227,3.2,0.393,75.298,27.969,47.329
+29,2026-06-25,16:00 UTC-4,E,Philadelphia,Curaçao,Ivory Coast,Ivory Coast win,High,Strong favorite across weighted v2 layers,0.0824,0.1634,0.7542,0.609,2.288,27.969,56.438,-28.469
+30,2026-06-25,16:00 UTC-4,E,New York/New Jersey (East Rutherford),Ecuador,Germany,No strong edge,Pass,Model sees too little separation for a public winner call,0.2829,0.2729,0.4442,1.025,1.358,75.298,81.351,-6.053
+31,2026-06-14,15:00 UTC-5,F,Dallas (Arlington),Netherlands,Japan,No strong edge,Pass,Model sees too little separation for a public winner call,0.3394,0.2789,0.3817,1.137,1.224,76.674,78.254,-1.58
+32,2026-06-14,20:00 UTC-6,F,Monterrey (Guadalupe),Sweden,Tunisia,Sweden win lean,Medium,"Clear edge, but still not framed as certainty",0.5408,0.2516,0.2075,1.588,0.877,47.429,34.672,12.757
+33,2026-06-20,12:00 UTC-5,F,Houston,Netherlands,Sweden,Netherlands win,High,Strong favorite across weighted v2 layers,0.7635,0.1584,0.0781,2.329,0.598,76.674,47.429,29.245
+34,2026-06-20,22:00 UTC-6,F,Monterrey (Guadalupe),Tunisia,Japan,Japan win,High,Strong favorite across weighted v2 layers,0.0255,0.0775,0.897,0.428,3.2,34.672,78.254,-43.582
+35,2026-06-25,18:00 UTC-5,F,Dallas (Arlington),Japan,Sweden,Japan win,High,Strong favorite across weighted v2 layers,0.7819,0.1484,0.0698,2.417,0.576,78.254,47.429,30.825
+36,2026-06-25,18:00 UTC-5,F,Kansas City,Tunisia,Netherlands,Netherlands win,High,Strong favorite across weighted v2 layers,0.0282,0.0826,0.8892,0.444,3.134,34.672,76.674,-42.002
+37,2026-06-15,12:00 UTC-7,G,Seattle,Belgium,Egypt,Belgium win lean,Medium,"Clear edge, but still not framed as certainty",0.5837,0.2381,0.1782,1.701,0.818,73.806,58.071,15.735
+38,2026-06-15,18:00 UTC-7,G,Los Angeles (Inglewood),Iran,New Zealand,Iran win,High,Strong favorite across weighted v2 layers,0.6237,0.2235,0.1528,1.817,0.767,55.446,36.895,18.551
+39,2026-06-21,12:00 UTC-7,G,Los Angeles (Inglewood),Belgium,Iran,Belgium win,High,Strong favorite across weighted v2 layers,0.621,0.2246,0.1545,1.808,0.77,73.806,55.446,18.36
+40,2026-06-21,18:00 UTC-7,G,Vancouver,New Zealand,Egypt,Egypt win,High,Strong favorite across weighted v2 layers,0.1313,0.2086,0.66,0.721,1.931,36.895,58.071,-21.176
+41,2026-06-26,20:00 UTC-7,G,Seattle,Egypt,Iran,No strong edge,Pass,Model sees too little separation for a public winner call,0.3961,0.2782,0.3258,1.254,1.11,58.071,55.446,2.625
+42,2026-06-26,20:00 UTC-7,G,Vancouver,New Zealand,Belgium,Belgium win,High,Strong favorite across weighted v2 layers,0.0437,0.1109,0.8454,0.5,2.784,36.895,73.806,-36.911
+43,2026-06-15,12:00 UTC-4,H,Atlanta,Spain,Cape Verde,Spain win,High,Strong favorite across weighted v2 layers,0.904,0.0739,0.0221,3.2,0.384,85.748,37.443,48.305
+44,2026-06-15,18:00 UTC-4,H,Miami (Miami Gardens),Saudi Arabia,Uruguay,Uruguay win,High,Strong favorite across weighted v2 layers,0.0368,0.0989,0.8644,0.477,2.922,31.184,70.174,-38.99
+45,2026-06-21,12:00 UTC-4,H,Atlanta,Spain,Saudi Arabia,Spain win,High,Strong favorite across weighted v2 layers,0.912,0.0696,0.0184,3.2,0.332,85.748,31.184,54.564
+46,2026-06-21,18:00 UTC-4,H,Miami (Miami Gardens),Uruguay,Cape Verde,Uruguay win,High,Strong favorite across weighted v2 layers,0.803,0.1364,0.0606,2.526,0.551,70.174,37.443,32.731
+47,2026-06-26,19:00 UTC-5,H,Houston,Cape Verde,Saudi Arabia,No strong edge,Pass,Model sees too little separation for a public winner call,0.4472,0.2725,0.2804,1.365,1.02,37.443,31.184,6.259
+48,2026-06-26,18:00 UTC-6,H,Guadalajara (Zapopan),Uruguay,Spain,Spain win lean,Medium,"Clear edge, but still not framed as certainty",0.1797,0.2389,0.5814,0.821,1.695,70.174,85.748,-15.574
+49,2026-06-16,15:00 UTC-4,I,New York/New Jersey (East Rutherford),France,Senegal,France win,High,Strong favorite across weighted v2 layers,0.7392,0.1713,0.0896,2.223,0.626,89.667,62.431,27.236
+50,2026-06-16,18:00 UTC-4,I,Boston (Foxborough),Iraq,Norway,Norway win,High,Strong favorite across weighted v2 layers,0.0737,0.1533,0.773,0.587,2.374,41.357,71.416,-30.059
+51,2026-06-22,17:00 UTC-4,I,Philadelphia,France,Iraq,France win,High,Strong favorite across weighted v2 layers,0.904,0.0739,0.0221,3.2,0.384,89.667,41.357,48.31
+52,2026-06-22,20:00 UTC-4,I,New York/New Jersey (East Rutherford),Norway,Senegal,Norway avoid defeat,Medium-low,Best call is protection against the draw/upset,0.4863,0.2653,0.2484,1.454,0.957,71.416,62.431,8.985
+53,2026-06-26,15:00 UTC-4,I,Boston (Foxborough),Norway,France,France win,High,Strong favorite across weighted v2 layers,0.1554,0.2252,0.6194,0.772,1.804,71.416,89.667,-18.251
+54,2026-06-26,15:00 UTC-4,I,Toronto,Senegal,Iraq,Senegal win,High,Strong favorite across weighted v2 layers,0.6586,0.2092,0.1321,1.926,0.723,62.431,41.357,21.074
+55,2026-06-16,20:00 UTC-5,J,Kansas City,Argentina,Algeria,Argentina win,High,Strong favorite across weighted v2 layers,0.7345,0.1737,0.0919,2.204,0.632,86.765,59.906,26.859
+56,2026-06-16,21:00 UTC-7,J,San Francisco Bay Area (Santa Clara),Austria,Jordan,Austria win,High,Strong favorite across weighted v2 layers,0.6714,0.2037,0.1249,1.969,0.707,64.21,42.2,22.01
+57,2026-06-22,12:00 UTC-5,J,Dallas (Arlington),Argentina,Austria,Argentina win,High,Strong favorite across weighted v2 layers,0.6787,0.2004,0.1209,1.994,0.698,86.765,64.21,22.555
+58,2026-06-22,20:00 UTC-7,J,San Francisco Bay Area (Santa Clara),Jordan,Algeria,Algeria win,High,Strong favorite across weighted v2 layers,0.1602,0.2281,0.6118,0.782,1.781,42.2,59.906,-17.706
+59,2026-06-27,21:00 UTC-5,J,Kansas City,Algeria,Austria,No strong edge,Pass,Model sees too little separation for a public winner call,0.3044,0.2761,0.4195,1.068,1.304,59.906,64.21,-4.304
+60,2026-06-27,21:00 UTC-5,J,Dallas (Arlington),Jordan,Argentina,Argentina win,High,Strong favorite across weighted v2 layers,0.0247,0.0767,0.8986,0.419,3.2,42.2,86.765,-44.565
+61,2026-06-17,12:00 UTC-5,K,Houston,Portugal,DR Congo,Portugal win,High,Strong favorite across weighted v2 layers,0.765,0.1577,0.0774,2.336,0.596,77.643,48.274,29.369
+62,2026-06-17,20:00 UTC-6,K,Mexico City,Uzbekistan,Colombia,Colombia win,High,Strong favorite across weighted v2 layers,0.0745,0.1542,0.7713,0.589,2.366,49.81,79.718,-29.908
+63,2026-06-23,12:00 UTC-5,K,Houston,Portugal,Uzbekistan,Portugal win,High,Strong favorite across weighted v2 layers,0.7465,0.1675,0.086,2.254,0.618,77.643,49.81,27.833
+64,2026-06-23,20:00 UTC-6,K,Guadalajara (Zapopan),Colombia,DR Congo,Colombia win,High,Strong favorite across weighted v2 layers,0.7888,0.1445,0.0667,2.452,0.568,79.718,48.274,31.444
+65,2026-06-27,19:30 UTC-4,K,Miami (Miami Gardens),Colombia,Portugal,No strong edge,Pass,Model sees too little separation for a public winner call,0.3885,0.2786,0.3329,1.238,1.124,79.718,77.643,2.075
+66,2026-06-27,19:30 UTC-4,K,Atlanta,DR Congo,Uzbekistan,No strong edge,Pass,Model sees too little separation for a public winner call,0.3399,0.279,0.3811,1.139,1.223,48.274,49.81,-1.536
+67,2026-06-17,15:00 UTC-5,L,Dallas (Arlington),England,Croatia,England win lean,Medium,"Clear edge, but still not framed as certainty",0.5677,0.2434,0.1888,1.658,0.84,82.829,68.208,14.621
+68,2026-06-17,19:00 UTC-4,L,Toronto,Ghana,Panama,No strong edge,Pass,Model sees too little separation for a public winner call,0.2764,0.2717,0.4518,1.012,1.375,43.876,50.462,-6.586
+69,2026-06-23,16:00 UTC-4,L,Boston (Foxborough),England,Ghana,England win,High,Strong favorite across weighted v2 layers,0.864,0.0991,0.0369,2.919,0.477,82.829,43.876,38.953
+70,2026-06-23,19:00 UTC-4,L,Toronto,Panama,Croatia,Croatia win,High,Strong favorite across weighted v2 layers,0.1598,0.2279,0.6123,0.781,1.783,50.462,68.208,-17.746
+71,2026-06-27,17:00 UTC-4,L,New York/New Jersey (East Rutherford),Panama,England,England win,High,Strong favorite across weighted v2 layers,0.0623,0.1386,0.7991,0.556,2.505,50.462,82.829,-32.367
+72,2026-06-27,17:00 UTC-4,L,Philadelphia,Croatia,Ghana,Croatia win,High,Strong favorite across weighted v2 layers,0.7022,0.1895,0.1082,2.078,0.67,68.208,43.876,24.332

@@ -1,0 +1,45 @@
+fixture_key,provider_fixture_id,team,normalized_team,formation,starter_order,player_name,position,number,grid,impact_score,impact_match_status
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,1,José Sá,G,12,1:1,71.06,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,2,Nélson Semedo,D,2,2:4,74.53,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,3,Rúben Dias,D,3,2:3,84.56,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,4,Renato Veiga,D,13,2:2,72.92,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,5,João Cancelo,D,20,2:1,82.83,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,6,Samú Costa,M,24,3:2,69.32,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,7,Bernardo Silva,M,10,3:1,85.72,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,8,Francisco Conceição,M,26,4:3,78.6,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,9,Bruno Fernandes,M,8,4:2,84.11,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,10,Rafael Leão,M,17,4:1,81.84,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Portugal,Portugal,4-2-3-1,11,Cristiano Ronaldo,F,7,5:1,84.14,matched_player_impact_v21
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,1,Lawrence Vigouroux,G,12,1:1,,no_player_impact_match
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,2,Felipe Faúndez,D,26,2:4,,no_player_impact_match
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,3,Iván Román,D,5,2:3,,no_player_impact_match
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,4,Guillermo Maripán,D,3,2:2,,no_player_impact_match
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,5,Gabriel Suazo,D,17,2:1,,no_player_impact_match
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,6,Maximiliano Gutiérrez,M,19,3:4,,no_player_impact_match
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,7,Felipe Loyola,M,8,3:3,,no_player_impact_match
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,8,Vicente Pizarro,M,6,3:2,,no_player_impact_match
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,9,Darío Osorio,M,11,3:1,,no_player_impact_match
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,10,Gonzalo Tapia,F,16,4:2,,no_player_impact_match
+friendly_2026_06_06_portugal_chile,1528286,Chile,Chile,4-4-2,11,Agustín Arce,F,25,4:1,,no_player_impact_match
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,1,Matthew Freese,G,24,1:1,,no_player_impact_match
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,2,Alexander Freeman,D,16,2:4,,no_player_impact_match
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,3,Miles Robinson,D,12,2:3,73.4,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,4,Tim Ream,D,13,2:2,74.55,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,5,Antonee Robinson,D,5,2:1,80.0,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,6,Weston McKennie,M,8,3:2,86.05,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,7,Tyler Adams,M,4,3:1,80.18,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,8,Sergiño Dest,M,2,4:3,78.31,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,9,Malik Tillman,M,17,4:2,79.24,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,10,Christian Pulišić,M,10,4:1,91.36,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,USA,United States,4-2-3-1,11,Folarin Balogun,F,20,5:1,80.75,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,1,Oliver Baumann,G,12,1:1,70.95,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,2,Joshua Kimmich,D,6,2:4,89.4,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,3,Jonathan Tah,D,4,2:3,82.63,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,4,Nico Schlotterbeck,D,15,2:2,78.44,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,5,Nathaniel Brown,D,18,2:1,69.71,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,6,Felix Nmecha,M,23,3:2,76.34,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,7,Aleksandar Pavlović,M,5,3:1,77.58,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,8,Leroy Sané,M,19,4:3,81.96,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,9,Jamal Musiala,M,10,4:2,83.97,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,10,Florian Wirtz,M,17,4:1,84.5,matched_player_impact_v21
+friendly_2026_06_06_germany_usa,1502474,Germany,Germany,4-2-3-1,11,Kai Havertz,F,7,5:1,90.07,matched_player_impact_v21

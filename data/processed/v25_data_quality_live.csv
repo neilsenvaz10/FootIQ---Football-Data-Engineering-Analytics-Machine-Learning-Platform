@@ -1,0 +1,9 @@
+fixture_key,team1,team2,provider_status,provider_found,weather_found,confirmed_lineups_available,odds_available,injuries_available,data_quality_score,missing_inputs
+friendly_2026_06_06_portugal_chile,Portugal,Chile,,False,True,False,False,False,43,provider_fixture;odds_feed;injury_feed
+friendly_2026_06_06_germany_usa,Germany,USA,,False,True,False,False,False,43,provider_fixture;odds_feed;injury_feed
+road26_2026_06_06_bolivia_scotland,Bolivia,Scotland,,False,True,False,False,False,43,provider_fixture;odds_feed;injury_feed
+road26_2026_06_06_brazil_egypt,Brazil,Egypt,,False,True,False,False,False,43,provider_fixture;odds_feed;injury_feed
+road26_2026_06_06_argentina_honduras,Argentina,Honduras,,False,True,False,False,False,43,provider_fixture;odds_feed;injury_feed
+road26_2026_06_07_morocco_norway,Morocco,Norway,,False,True,False,False,False,43,provider_fixture;odds_feed;injury_feed
+road26_2026_06_07_colombia_jordan,Colombia,Jordan,,False,True,False,False,False,43,provider_fixture;odds_feed;injury_feed
+road26_2026_06_09_argentina_iceland,Argentina,Iceland,NS,True,True,False,False,False,78,odds_feed;injury_feed

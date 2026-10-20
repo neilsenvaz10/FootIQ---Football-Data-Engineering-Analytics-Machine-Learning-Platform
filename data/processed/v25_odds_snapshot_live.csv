@@ -1,0 +1,9 @@
+fixture_key,team1,team2,odds_provider,snapshot_time,team1_decimal_odds,draw_decimal_odds,team2_decimal_odds,team1_implied_probability,draw_implied_probability,team2_implied_probability,odds_status,note
+friendly_2026_06_06_portugal_chile,Portugal,Chile,,,,,,,,,not_enabled_in_v25,v2.5 table contract only; live odds feed should be added after fixture/lineup/weather tables are stable.
+friendly_2026_06_06_germany_usa,Germany,USA,,,,,,,,,not_enabled_in_v25,v2.5 table contract only; live odds feed should be added after fixture/lineup/weather tables are stable.
+road26_2026_06_06_bolivia_scotland,Bolivia,Scotland,,,,,,,,,not_enabled_in_v25,v2.5 table contract only; live odds feed should be added after fixture/lineup/weather tables are stable.
+road26_2026_06_06_brazil_egypt,Brazil,Egypt,,,,,,,,,not_enabled_in_v25,v2.5 table contract only; live odds feed should be added after fixture/lineup/weather tables are stable.
+road26_2026_06_06_argentina_honduras,Argentina,Honduras,,,,,,,,,not_enabled_in_v25,v2.5 table contract only; live odds feed should be added after fixture/lineup/weather tables are stable.
+road26_2026_06_07_morocco_norway,Morocco,Norway,,,,,,,,,not_enabled_in_v25,v2.5 table contract only; live odds feed should be added after fixture/lineup/weather tables are stable.
+road26_2026_06_07_colombia_jordan,Colombia,Jordan,,,,,,,,,not_enabled_in_v25,v2.5 table contract only; live odds feed should be added after fixture/lineup/weather tables are stable.
+road26_2026_06_09_argentina_iceland,Argentina,Iceland,,,,,,,,,not_enabled_in_v25,v2.5 table contract only; live odds feed should be added after fixture/lineup/weather tables are stable.

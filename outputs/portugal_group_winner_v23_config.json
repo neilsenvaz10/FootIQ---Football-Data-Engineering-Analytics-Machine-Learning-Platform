@@ -1,0 +1,8 @@
+{
+  "version": "v2.3-portugal-group-winner-scenario",
+  "base_model": "v2.3",
+  "seed": 20260609,
+  "accepted_simulations": 50000,
+  "condition": "Portugal finishes first in Group K",
+  "note": "Conditional scenario only; not a new production model."
+}

@@ -1,0 +1,9 @@
+fixture_key,date,time_et,team1,team2,competition_context,venue,city,latitude,longitude,venue_edge_team,source
+friendly_2026_06_06_portugal_chile,2026-06-06,13:45,Portugal,Chile,International friendly live test,Lisbon - Oeiras,"Oeiras, Portugal",38.7223,-9.1393,Portugal,API-Football fixture feed
+friendly_2026_06_06_germany_usa,2026-06-06,14:30,Germany,USA,International friendly live test,Soldier Field,"Chicago, IL",41.8623,-87.6167,USA,API-Football fixture feed
+road26_2026_06_06_bolivia_scotland,2026-06-06,16:00,Bolivia,Scotland,Road to 26 friendly,Sports Illustrated Stadium,"Harrison, NJ",40.7368,-74.1504,,https://roadto26.com/
+road26_2026_06_06_brazil_egypt,2026-06-06,18:00,Brazil,Egypt,Road to 26 friendly,Huntington Bank Field,"Cleveland, OH",41.5061,-81.6995,,https://roadto26.com/
+road26_2026_06_06_argentina_honduras,2026-06-06,20:00,Argentina,Honduras,Road to 26 friendly,Kyle Field,"College Station, TX",30.6102,-96.3409,,https://roadto26.com/
+road26_2026_06_07_morocco_norway,2026-06-07,15:00,Morocco,Norway,Road to 26 friendly,Sports Illustrated Stadium,"Harrison, NJ",40.7368,-74.1504,,https://roadto26.com/
+road26_2026_06_07_colombia_jordan,2026-06-07,19:00,Colombia,Jordan,Road to 26 friendly,Snapdragon Stadium,"San Diego, CA",32.784,-117.1228,,https://roadto26.com/
+road26_2026_06_09_argentina_iceland,2026-06-09,20:30,Argentina,Iceland,Road to 26 friendly,Jordan-Hare Stadium,"Auburn, AL",32.6026,-85.4893,,https://roadto26.com/

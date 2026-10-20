@@ -1,0 +1,15 @@
+year,variant,metric,value,context
+2018,model_v21_proxy,champion_rank,5,France
+2018,model_v21_proxy,champion_probability_pct,7.1,France
+2018,model_v21_proxy,qualified_brier,0.1321,16 actual teams
+2018,model_v21_proxy,quarter_final_brier,0.135,7 actual teams
+2018,model_v21_proxy,semi_final_brier,0.101,4 actual teams
+2018,model_v21_proxy,final_brier,0.0647,2 actual teams
+2018,model_v21_proxy,champion_brier,0.0311,1 actual teams
+2022,model_v21_proxy,champion_rank,3,Argentina
+2022,model_v21_proxy,champion_probability_pct,16.66,Argentina
+2022,model_v21_proxy,qualified_brier,0.2568,16 actual teams
+2022,model_v21_proxy,quarter_final_brier,0.1205,8 actual teams
+2022,model_v21_proxy,semi_final_brier,0.1108,4 actual teams
+2022,model_v21_proxy,final_brier,0.0527,2 actual teams
+2022,model_v21_proxy,champion_brier,0.0254,1 actual teams

@@ -1,0 +1,13 @@
+{
+  "seed": 20260603,
+  "simulations": 50000,
+  "base_goal_rate": 1.22,
+  "rating_goal_scale": 720.0,
+  "host_advantage_group": 55.0,
+  "host_advantage_knockout": 38.0,
+  "recent_form_cap": 45.0,
+  "ceiling_cap": 38.0,
+  "tactical_cap": 22.0,
+  "squad_availability_cap": 75.0,
+  "knockout_draw_penalty_noise": 35.0
+}

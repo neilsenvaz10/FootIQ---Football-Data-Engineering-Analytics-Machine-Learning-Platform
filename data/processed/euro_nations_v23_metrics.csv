@@ -1,0 +1,3 @@
+tournament,stage_scope,brier,log_loss,pick_accuracy_pct,draw_pick_count,draw_pick_accuracy_pct,draw_risk_count,actual_draws,actual_draws_in_draw_risk,matches,actual_champion,actual_champion_rank,actual_champion_probability_pct
+Euro 2024,Group Stage,0.216,1.0748,52.78,22,50.0,22,14,11,36,Spain,2,7.75
+UEFA Nations League 2025 Finals,"Final, Semi-final",0.2289,1.1278,33.33,3,33.33,3,1,1,3,Portugal,4,22.07

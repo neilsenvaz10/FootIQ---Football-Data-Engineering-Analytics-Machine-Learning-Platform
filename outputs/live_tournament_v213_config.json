@@ -1,0 +1,15 @@
+{
+  "version": "v2.13",
+  "purpose": "Live-aware title odds: lock real completed results, then simulate the remaining tournament path.",
+  "base_engine": "v2.3 team power + v2.3 group/knockout Monte Carlo",
+  "actual_results_source": "data/processed/matchday_validation_v210.csv",
+  "static_comparison_source": "data/processed/model_v23_tournament_odds.csv",
+  "simulations": 50000,
+  "seed": 20260625,
+  "generated_at": "2026-10-20T15:35:07",
+  "actual_group_results_locked": 72,
+  "group_matches_total": 72,
+  "remaining_group_matches_simulated": 0,
+  "resolved_round_of_32_fixtures": 16,
+  "actual_knockout_results_locked": 31
+}

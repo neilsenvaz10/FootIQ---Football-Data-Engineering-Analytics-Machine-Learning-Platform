@@ -1,0 +1,16 @@
+team,normalized_team,v25_match_power,global_match_power,raw_world_cup_v23_power,profile_adjustment,elo_score,squad_score,recent_form_score,tactical_score,availability_score,market_score,ceiling_score,manager_score,power_source,squad_source,manager_source
+Argentina,Argentina,87.053,88.333,83.213,-1.28,97.872,79.828,65.957,58.376,100.0,72.727,86.0,88.55,global_match_power_plus_capped_world_cup_profile,player_impact_v21,named_manager_profile
+Bolivia,Bolivia,68.468,68.468,,0.0,81.791,61.127,60.0,50.0,100.0,50.0,64.0,65.0,global_elo_recent_fallback,elo_proxy_neutral,neutral_unknown
+Brazil,Brazil,85.563,86.873,81.634,-1.31,91.489,79.498,63.83,63.961,100.0,75.0,86.0,87.95,global_match_power_plus_capped_world_cup_profile,player_impact_v21,named_manager_profile
+Chile,Chile,73.102,73.102,,0.0,87.164,63.007,80.0,50.0,100.0,50.0,78.0,65.0,global_elo_recent_fallback,elo_proxy_neutral,neutral_unknown
+Colombia,Colombia,81.424,82.884,77.042,-1.46,89.362,77.356,57.447,53.149,100.0,50.0,86.0,78.0,global_match_power_plus_capped_world_cup_profile,player_impact_v21,named_manager_profile
+Egypt,Egypt,72.271,76.134,60.681,-3.863,34.043,73.112,93.617,48.807,100.0,50.0,46.0,65.0,global_match_power_plus_capped_world_cup_profile,player_impact_v21,neutralized_unknown_manager
+Germany,Germany,84.302,86.244,78.474,-1.942,80.851,79.904,80.851,65.404,100.0,50.0,66.0,84.8,global_match_power_plus_capped_world_cup_profile,player_impact_v21,named_manager_profile
+Honduras,Honduras,66.376,66.376,,0.0,79.104,60.187,50.149,50.0,100.0,50.0,64.0,65.0,global_elo_recent_fallback,elo_proxy_neutral,neutral_unknown
+Iceland,Iceland,61.349,61.349,,0.0,73.134,58.097,24.478,50.0,100.0,50.0,64.0,65.0,global_elo_recent_fallback,elo_proxy_neutral,neutral_unknown
+Jordan,Jordan,63.503,67.503,49.902,-4.0,27.66,63.629,40.426,50.0,100.0,50.0,25.0,65.0,global_match_power_plus_capped_world_cup_profile,player_impact_v21,neutralized_unknown_manager
+Morocco,Morocco,81.594,83.82,74.917,-2.226,76.596,76.715,87.234,47.078,100.0,50.0,66.0,82.6,global_match_power_plus_capped_world_cup_profile,player_impact_v21,named_manager_profile
+Norway,Norway,78.405,80.376,72.492,-1.971,70.213,78.172,78.723,50.0,100.0,50.0,66.0,68.7,global_match_power_plus_capped_world_cup_profile,player_impact_v21,named_manager_profile
+Portugal,Portugal,83.166,85.666,75.668,-2.499,87.234,80.247,34.043,49.74,100.0,70.833,86.0,77.3,global_match_power_plus_capped_world_cup_profile,player_impact_v21,named_manager_profile
+Scotland,Scotland,68.548,72.231,57.499,-3.683,36.17,72.116,55.319,50.0,100.0,50.0,46.0,71.95,global_match_power_plus_capped_world_cup_profile,player_impact_v21,named_manager_profile
+USA,United States,73.645,77.645,61.239,-4.0,42.553,77.552,59.574,43.168,100.0,50.0,46.0,83.4,global_match_power_plus_capped_world_cup_profile,player_impact_v21,named_manager_profile

@@ -1,0 +1,20 @@
+{
+  "simulations": 20000,
+  "base_goal_rate": 1.15,
+  "power_goal_scale": 62.0,
+  "group_performance_noise": 1.5,
+  "knockout_performance_noise": 3.0,
+  "extra_time_goal_factor": 0.28,
+  "historical_market_score": 50.0,
+  "weights": {
+    "elo_score": 0.3,
+    "squad_score": 0.32,
+    "recent_form_score": 0.1,
+    "tactical_score": 0.1,
+    "availability_score": 0.07,
+    "market_score": 0.05,
+    "ceiling_score": 0.03,
+    "manager_score": 0.03
+  },
+  "status": "v2.3 backtest; historical market layer neutral to avoid leakage"
+}

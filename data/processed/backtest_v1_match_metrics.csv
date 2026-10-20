@@ -1,0 +1,5 @@
+year,variant,matches,group_wdl_brier,group_wdl_log_loss,favorite_accuracy_pct,selected_win_pick_count,selected_win_pick_accuracy_pct,avoid_defeat_pick_count,avoid_defeat_accuracy_pct,pass_count
+2018,model_v1,48,0.1849,0.9415,58.33,24,70.83,9,55.56,0
+2018,elo_only,48,0.1889,0.9585,56.25,21,71.43,8,75.0,0
+2022,model_v1,48,0.2096,1.0685,47.92,26,57.69,5,80.0,0
+2022,elo_only,48,0.2091,1.058,52.08,22,54.55,7,71.43,0

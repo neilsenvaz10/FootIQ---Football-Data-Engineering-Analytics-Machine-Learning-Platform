@@ -1,0 +1,65 @@
+year,variant,title_rank,team,group,v23_power_score,qualify_pct,quarter_final_pct,semi_final_pct,final_pct,champion_pct
+2018,model_v23_bias_control,1,Brazil,E,85.66,84.89,59.4,39.28,25.02,15.53
+2018,model_v23_bias_control,2,Spain,B,81.386,73.06,56.09,34.03,19.67,11.46
+2018,model_v23_bias_control,3,Germany,F,78.421,82.17,46.94,27.98,15.74,8.39
+2018,model_v23_bias_control,4,England,G,77.201,80.53,54.12,29.32,16.2,8.37
+2018,model_v23_bias_control,5,Belgium,G,76.373,78.96,51.52,27.48,14.8,7.7
+2018,model_v23_bias_control,6,Argentina,D,76.469,82.29,44.87,25.44,13.59,7.09
+2018,model_v23_bias_control,7,Peru,C,77.185,65.36,40.3,23.36,12.42,6.67
+2018,model_v23_bias_control,8,France,C,77.464,65.84,41.05,23.57,12.91,6.63
+2018,model_v23_bias_control,9,Portugal,B,74.459,60.85,42.01,22.2,11.14,5.2
+2018,model_v23_bias_control,10,Uruguay,A,71.081,87.85,43.52,21.36,10.12,4.66
+2018,model_v23_bias_control,11,Switzerland,E,70.626,61.2,32.61,16.79,7.63,3.39
+2018,model_v23_bias_control,12,Colombia,H,68.687,67.33,31.95,14.35,6.38,2.86
+2018,model_v23_bias_control,13,Croatia,D,66.789,68.5,30.32,14.39,6.42,2.39
+2018,model_v23_bias_control,14,Mexico,F,65.214,60.59,25.94,11.9,4.96,2.1
+2018,model_v23_bias_control,15,Denmark,C,65.745,41.49,20.61,8.96,3.6,1.42
+2018,model_v23_bias_control,16,Iran,B,63.484,37.38,21.6,9.02,3.52,1.31
+2018,model_v23_bias_control,17,Poland,H,62.035,54.44,22.39,8.47,3.2,1.13
+2018,model_v23_bias_control,18,Senegal,H,60.226,51.22,19.57,7.22,2.64,0.83
+2018,model_v23_bias_control,19,Morocco,B,58.955,28.7,14.73,5.3,1.88,0.64
+2018,model_v23_bias_control,20,Australia,C,58.006,27.3,11.04,4.32,1.58,0.53
+2018,model_v23_bias_control,21,Sweden,F,53.991,35.53,10.64,3.66,1.14,0.34
+2018,model_v23_bias_control,22,Serbia,E,53.791,26.98,9.71,3.48,1.03,0.3
+2018,model_v23_bias_control,23,Costa Rica,E,54.256,26.93,9.67,3.48,1.05,0.29
+2018,model_v23_bias_control,24,Iceland,D,49.807,31.85,8.54,2.73,0.7,0.2
+2018,model_v23_bias_control,25,Japan,H,47.873,27.02,7.27,1.88,0.5,0.14
+2018,model_v23_bias_control,26,Tunisia,G,48.401,23.38,8.07,2.1,0.56,0.12
+2018,model_v23_bias_control,27,Russia,A,41.128,43.22,9.01,2.12,0.47,0.11
+2018,model_v23_bias_control,28,South Korea,F,45.095,21.7,5.09,1.37,0.29,0.1
+2018,model_v23_bias_control,29,Egypt,A,40.919,37.23,7.13,1.35,0.26,0.04
+2018,model_v23_bias_control,30,Saudi Arabia,A,38.321,31.7,5.91,1.11,0.2,0.03
+2018,model_v23_bias_control,31,Nigeria,D,40.319,17.36,3.27,0.73,0.14,0.03
+2018,model_v23_bias_control,32,Panama,G,43.345,17.14,5.11,1.25,0.24,0.03
+2022,model_v23_bias_control,1,Brazil,G,85.33,83.64,57.48,36.16,23.01,14.53
+2022,model_v23_bias_control,2,Netherlands,A,82.165,87.27,65.39,41.06,23.27,14.29
+2022,model_v23_bias_control,3,Argentina,C,82.0,86.61,58.91,37.55,21.24,12.61
+2022,model_v23_bias_control,4,Spain,E,82.351,76.35,50.31,29.75,18.65,11.06
+2022,model_v23_bias_control,5,Portugal,H,75.314,75.79,39.63,20.7,11.7,5.82
+2022,model_v23_bias_control,6,Belgium,F,74.08,70.56,36.52,18.89,10.45,5.13
+2022,model_v23_bias_control,7,Denmark,D,71.324,69.86,38.64,22.26,10.49,4.78
+2022,model_v23_bias_control,8,Germany,E,73.703,61.94,35.31,17.7,9.55,4.57
+2022,model_v23_bias_control,9,Croatia,F,72.774,68.33,34.02,16.69,8.97,4.24
+2022,model_v23_bias_control,10,Uruguay,H,71.978,71.09,34.47,17.16,9.15,4.01
+2022,model_v23_bias_control,11,France,D,69.556,65.63,34.84,19.29,8.7,3.85
+2022,model_v23_bias_control,12,Serbia,G,69.527,57.58,29.0,13.55,6.68,2.81
+2022,model_v23_bias_control,13,England,B,65.548,68.86,34.58,16.33,6.88,2.77
+2022,model_v23_bias_control,14,Switzerland,G,65.109,48.32,21.98,9.48,4.31,1.72
+2022,model_v23_bias_control,15,Ecuador,A,60.013,52.41,27.88,11.51,4.03,1.26
+2022,model_v23_bias_control,16,Mexico,C,60.467,52.05,23.43,11.22,3.92,1.23
+2022,model_v23_bias_control,17,Japan,E,61.482,36.12,15.47,5.99,2.49,0.83
+2022,model_v23_bias_control,18,USA,B,55.863,50.92,20.0,7.41,2.42,0.75
+2022,model_v23_bias_control,19,Poland,C,55.668,40.48,16.07,6.5,2.15,0.7
+2022,model_v23_bias_control,20,South Korea,H,55.896,36.6,11.52,3.83,1.41,0.46
+2022,model_v23_bias_control,21,Iran,B,53.898,46.07,17.36,5.99,1.73,0.45
+2022,model_v23_bias_control,22,Tunisia,D,54.364,35.28,12.68,4.92,1.39,0.36
+2022,model_v23_bias_control,23,Qatar,A,49.297,35.92,15.28,5.02,1.51,0.34
+2022,model_v23_bias_control,24,Costa Rica,E,54.937,25.59,9.27,2.81,1.02,0.29
+2022,model_v23_bias_control,25,Canada,F,54.824,31.3,9.64,3.0,0.99,0.28
+2022,model_v23_bias_control,26,Morocco,F,54.02,29.82,9.44,2.96,0.96,0.26
+2022,model_v23_bias_control,27,Australia,D,50.95,29.23,9.48,3.35,0.86,0.21
+2022,model_v23_bias_control,28,Senegal,A,46.035,24.4,9.18,2.62,0.62,0.13
+2022,model_v23_bias_control,29,Wales,B,47.493,34.15,10.33,3.13,0.69,0.13
+2022,model_v23_bias_control,30,Saudi Arabia,C,44.237,20.88,5.95,1.84,0.47,0.07
+2022,model_v23_bias_control,31,Ghana,H,42.978,16.51,3.4,0.8,0.18,0.03
+2022,model_v23_bias_control,32,Cameroon,G,41.009,10.46,2.53,0.54,0.1,0.02

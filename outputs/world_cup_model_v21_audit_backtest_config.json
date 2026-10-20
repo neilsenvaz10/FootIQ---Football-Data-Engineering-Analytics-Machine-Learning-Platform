@@ -1,0 +1,17 @@
+{
+  "simulations": 20000,
+  "weights": {
+    "elo_score": 0.3,
+    "squad_score": 0.25,
+    "manager_score": 0.15,
+    "recent_form_score": 0.1,
+    "tactical_score": 0.1,
+    "ceiling_score": 0.05,
+    "availability_score": 0.05
+  },
+  "historical_squad_sources": {
+    "2018": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads",
+    "2022": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads"
+  },
+  "status": "v2.1-style proxy backtest; historical manager/minutes feeds not licensed"
+}
