@@ -26,3 +26,22 @@ build/
 Thumbs.db
 .DS_Store
 
+# Raw data archives, intermediate datasets, and scraping submissions
+FootIQ_Dataset_Submission.zip
+FootIQ_Dataset_Submission/
+FootIQ_ML_Data_Readiness/
+FootIQ_ML_Data_Verification/
+docs/baseline/capture_2026-10-20/
+
+# Large training dataset files and build work cache in preparation folder
+FootIQ_ML_Training_Preparation/_build/work/
+FootIQ_ML_Training_Preparation/01_CORRECTED_LEAGUE_TRAINING_DATASET_v1.1.csv
+FootIQ_ML_Training_Preparation/02_CORRECTED_FEATURE_DATASET_v1.1.csv
+FootIQ_ML_Training_Preparation/03_ROW_LEVEL_CORRECTION_AND_EXCLUSION_LOG_v1.1.csv
+
+# Large raw prediction CSV files (reproducible via locked evaluation)
+FootIQ_Club_Model_Baseline_v1/predictions_validation.csv
+FootIQ_Club_Model_Baseline_v1/predictions_validation_test_holdout.csv
+
+
+
