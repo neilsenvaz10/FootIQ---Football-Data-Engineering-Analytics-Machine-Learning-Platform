@@ -1,0 +1,16 @@
+{
+ "url": "https://api.openligadb.de/getavailableleagues/2026",
+ "status": 200,
+ "retrieved_utc": "2026-10-21T14:00:09Z",
+ "headers": {},
+ "source": "openligadb",
+ "licence": "ODbL-1.0",
+ "attribution": "Daten von OpenLigaDB (www.openligadb.de), lizenziert unter ODbL 1.0",
+ "plan_request": "R1",
+ "plan_sha256": "d7c2169e117a02f3e72b0517f171f2b11fb7f3d609156619cfd7421615a18bc9",
+ "snapshot_id": "20261021T140009Z_R1_getavailableleagues_2026.json",
+ "sha256": "38629f3d6aebf0da1cf55f4d5aa0b0786bd21e1e6130ac0d3c26815b6aa603d5",
+ "bytes": 249,
+ "saved_utc": "2026-10-21T14:00:09Z",
+ "adapter_version": "1.0.0"
+}

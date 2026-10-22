@@ -1,0 +1,6 @@
+{"ts": "2026-10-21T14:12:25Z", "source": "OpenLigaDB", "url": "https://api.openligadb.de/getavailableleagues/2026", "status": 200, "attempt": 0}
+{"ts": "2026-10-21T14:12:28Z", "source": "OpenLigaDB", "url": "https://api.openligadb.de/getresulttypes", "status": 200, "attempt": 0}
+{"ts": "2026-10-21T14:12:31Z", "source": "OpenLigaDB", "url": "https://api.openligadb.de/getmatchdata/bl1/2026", "status": 200, "attempt": 0}
+{"ts": "2026-10-21T14:12:33Z", "source": "OpenLigaDB", "url": "https://api.openligadb.de/getcurrentgroup/bl1", "status": 200, "attempt": 0}
+{"ts": "2026-10-21T14:12:36Z", "source": "OpenLigaDB", "url": "https://api.openligadb.de/getlastchangedate/bl1/2026/6", "status": 200, "attempt": 0}
+{"ts": "2026-10-21T14:12:39Z", "source": "OpenLigaDB", "url": "https://api.openligadb.de/getlastchangedate/bl1/2026/7", "status": 200, "attempt": 0}

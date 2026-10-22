@@ -1,0 +1,1 @@
+[{"id":1,"name":"Halbzeit","kind":"HalfTime"},{"id":2,"name":"nach 90 Minuten","kind":"After90Minutes"},{"id":3,"name":"nach Nachspielzeit","kind":"Unknown"},{"id":4,"name":"nach Verlaengerung","kind":"AfterExtraTime"},{"id":5,"name":"nach Elfmeterschießen","kind":"AfterPenalties"}]

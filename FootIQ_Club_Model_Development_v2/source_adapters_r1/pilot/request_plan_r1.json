@@ -1,0 +1,81 @@
+{
+ "plan_version": "r1",
+ "source": "OpenLigaDB",
+ "scheme": "https",
+ "host": "api.openligadb.de",
+ "method": "GET",
+ "auth": "none",
+ "request_body": "none",
+ "cookies": "none",
+ "requests": [
+  {
+   "id": "R1",
+   "path": "/getavailableleagues/2026",
+   "purpose": "confirm exact league id / shortcut / season for the Bundesliga 2026-27",
+   "expected_size": "< 100 KB"
+  },
+  {
+   "id": "R2",
+   "path": "/getresulttypes",
+   "purpose": "confirm result-type kinds (After90Minutes etc.) used for explicit regulation scores",
+   "expected_size": "< 10 KB"
+  },
+  {
+   "id": "R3",
+   "path": "/getmatchdata/bl1/2026",
+   "purpose": "whole Bundesliga season (306 matches): results, fixtures, kickoff UTC, ids, result types",
+   "expected_size": "about 0.3 MB",
+   "sent_only_if": "R1 confirmed leagueId=4937, shortcut=bl1, season=2026"
+  },
+  {
+   "id": "R4",
+   "path": "/getcurrentgroup/bl1",
+   "purpose": "current matchday for the change-date polling probe",
+   "expected_size": "< 2 KB"
+  },
+  {
+   "id": "R5",
+   "path": "/getlastchangedate/bl1/2026/{current_matchday-1}",
+   "purpose": "change-date probe (no match data fetched)",
+   "expected_size": "< 1 KB"
+  },
+  {
+   "id": "R6",
+   "path": "/getlastchangedate/bl1/2026/{current_matchday}",
+   "purpose": "change-date probe (no match data fetched)",
+   "expected_size": "< 1 KB"
+  }
+ ],
+ "limits": {
+  "planned_requests": 6,
+  "max_http_attempts_total_including_retries": 12,
+  "min_interval_seconds": 2.0,
+  "max_extra_jitter_seconds": 1.5,
+  "expected_duration_seconds": "about 15-30",
+  "expected_rate": "at most ~25 requests/minute vs documented limit 60/minute/IP; whole pilot = 6 requests",
+  "retry_policy": "429/5xx/network error: exponential back-off (Retry-After honoured), at most 2 retries per request, then abort"
+ },
+ "preconditions": [
+  "contact configured via env FOOTIQ_CONTACT or untracked config/contact.local (checked before any request; value never shown)",
+  "no Bundesliga match scheduled between 1 h before kickoff and 3 h after kickoff (checked against the stored schedule)",
+  "plan sha256 supplied by the owner equals the sha256 of this plan"
+ ],
+ "abort_if": [
+  "R1 does not list leagueId 4937 / bl1 / 2026",
+  "any HTTP status other than 200/429/5xx",
+  "attempt budget exhausted",
+  "response host differs from api.openligadb.de"
+ ],
+ "user_agent": "FootIQ-ResultsAdapters-OpenLigaDBBot/1.0.0 (+local research project; <contact from env/untracked file - not shown>)",
+ "attribution": "Daten von OpenLigaDB (www.openligadb.de), lizenziert unter ODbL 1.0 (stored on every record and snapshot)",
+ "outputs": [
+  "raw snapshots (read-only, sha256) under snapshots/openligadb/",
+  "pilot/<run_id>/ staging records, reconciliation tables, validation report, isolated refreshed universe (NOT the feature store)"
+ ],
+ "not_done": [
+  "no change to the official feature store, frozen datasets, models, protocol or logger",
+  "no Wikipedia requests",
+  "no official logging, no approval JSON",
+  "no scheduler"
+ ]
+}
