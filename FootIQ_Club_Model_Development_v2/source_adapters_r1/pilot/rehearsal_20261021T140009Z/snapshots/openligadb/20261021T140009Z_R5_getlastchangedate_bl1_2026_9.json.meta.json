@@ -1,0 +1,16 @@
+{
+ "url": "https://api.openligadb.de/getlastchangedate/bl1/2026/9",
+ "status": 200,
+ "retrieved_utc": "2026-10-21T14:00:09Z",
+ "headers": {},
+ "source": "openligadb",
+ "licence": "ODbL-1.0",
+ "attribution": "Daten von OpenLigaDB (www.openligadb.de), lizenziert unter ODbL 1.0",
+ "plan_request": "R5",
+ "plan_sha256": "d7c2169e117a02f3e72b0517f171f2b11fb7f3d609156619cfd7421615a18bc9",
+ "snapshot_id": "20261021T140009Z_R5_getlastchangedate_bl1_2026_9.json",
+ "sha256": "fe6914935d301a00a8ab2e8124adde9ecc4f5b9531d54e2c514e6abcdc845112",
+ "bytes": 25,
+ "saved_utc": "2026-10-21T14:00:09Z",
+ "adapter_version": "1.0.0"
+}

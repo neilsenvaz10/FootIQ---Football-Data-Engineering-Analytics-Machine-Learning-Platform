@@ -1,0 +1,16 @@
+{
+ "url": "https://api.openligadb.de/getresulttypes",
+ "status": 200,
+ "retrieved_utc": "2026-10-21T14:00:09Z",
+ "headers": {},
+ "source": "openligadb",
+ "licence": "ODbL-1.0",
+ "attribution": "Daten von OpenLigaDB (www.openligadb.de), lizenziert unter ODbL 1.0",
+ "plan_request": "R2",
+ "plan_sha256": "d7c2169e117a02f3e72b0517f171f2b11fb7f3d609156619cfd7421615a18bc9",
+ "snapshot_id": "20261021T140009Z_R2_getresulttypes.json",
+ "sha256": "d235567eeb009114324a48e7230d1325d75ecc50e622ed3d2c73e396f1cb088e",
+ "bytes": 70,
+ "saved_utc": "2026-10-21T14:00:09Z",
+ "adapter_version": "1.0.0"
+}

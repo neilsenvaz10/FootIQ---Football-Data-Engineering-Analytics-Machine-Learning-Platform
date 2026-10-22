@@ -1,0 +1,83 @@
+{
+ "run_label": "live",
+ "plan_sha256": "d7c2169e117a02f3e72b0517f171f2b11fb7f3d609156619cfd7421615a18bc9",
+ "started_utc": "2026-10-21T14:12:24Z",
+ "requests_sent": [],
+ "league_confirmed": {
+  "leagueId": 4937,
+  "leagueShortcut": "bl1",
+  "leagueSeason": "2026",
+  "leagueName": "1. Fu\u00dfball-Bundesliga 2026/2027"
+ },
+ "result_type_kinds": [
+  null
+ ],
+ "polling_probe": {
+  "current_matchday": 7,
+  "last_change_dates": {
+   "6": "2026-10-18T19:23:40.75",
+   "7": "2026-09-10T17:26:33.983"
+  },
+  "season_snapshot_max_lastUpdate_by_matchday": {
+   "6": "2026-10-18T19:23:40.75",
+   "7": "2026-09-10T17:26:33.983"
+  }
+ },
+ "http_attempts_used": 6,
+ "requests_planned": 6,
+ "integrity": {
+  "matches": 306,
+  "unique_matchIDs": 306,
+  "duplicate_matchIDs": 0,
+  "duplicate_ordered_pairs": 0,
+  "teams": 18,
+  "matchdays": 34,
+  "completed": 54,
+  "completed_with_kickoff_before_retrieval": 54,
+  "completed_with_kickoff_after_retrieval": 0,
+  "valid_kickoff_utc": 306,
+  "label_eligible_explicit_90min": 54,
+  "completed_not_label_eligible": [],
+  "lastUpdate_after_retrieval": 0
+ },
+ "reconciliation": {
+  "source": "openligadb",
+  "competition_id": "deutschland:1-bundesliga",
+  "season": "2026-27",
+  "source_records": 306,
+  "source_completed": 54,
+  "openfootball_rows": 36,
+  "overlapping_checked": 36,
+  "exact_score_agreements": 36,
+  "conflicts": 0,
+  "date_agreements": 36,
+  "date_disagreements": 0,
+  "newly_recovered": 18,
+  "not_in_openfootball": 0,
+  "ambiguous": 0,
+  "unresolved_team_identities": 0,
+  "records_without_kickoff_time": 0,
+  "latest_completed_date": "2026-10-18",
+  "run_date": "2026-10-21"
+ },
+ "new_verified_results": 18,
+ "new_verified_result_dates": [
+  "2026-10-09",
+  "2026-10-18"
+ ],
+ "openfootball_fixtures_missing_in_source": 0,
+ "source_fixtures_not_in_openfootball": 0,
+ "team_mapping_errors": 0,
+ "results_with_valid_kickoff_utc": 306,
+ "bundesliga_eligibility_dry_run": {
+  "fixtures_checked": 252,
+  "logged_in_dry_run": 252,
+  "rejected_by_timing": 0,
+  "primary_eligible": 18,
+  "failing_checks": {
+   "stale_competition_results": 234,
+   "nan": 18
+  },
+  "note": "dry run only; nothing was logged officially and the official feature store was not updated; features computed from an isolated universe copy"
+ }
+}
